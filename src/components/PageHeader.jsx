@@ -9,7 +9,7 @@ const PageHeader = ({ title }) => {
     <div
       className="relative flex items-center justify-center h-100 text-black text-center px-4"
       style={{
-        backgroundImage: `linear-gradient(to right, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('https://res.cloudinary.com/dro6y5qla/image/upload/v1748796966/WhatsApp_Image_2025-05-27_at_2.34.38_PM_1_qkafrn.jpg')`,
+        backgroundImage: `linear-gradient(to bottom, rgba(255,255,255,0.8), rgba(255,255,255,0.7)), url('https://res.cloudinary.com/dro6y5qla/image/upload/v1755374378/hero_blxf54.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

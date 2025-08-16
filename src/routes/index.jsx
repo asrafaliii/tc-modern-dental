@@ -6,6 +6,7 @@ import Contact from "../pages/Contact/Contact";
 import { Cars } from "../pages/Cars/Cars";
 import { Services } from "../pages/Services/Services";
 import ServiceDetails from "../pages/Services/ServiceDetails";
+import Team from "../pages/About/Sections/Team";
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ const router = createBrowserRouter([
       {
         path: "/services/:slug",
         element: <ServiceDetails />,
+      },
+      {
+        path: "/doctors",
+        element: <Team />,
       },
       {
         path: "/contact",

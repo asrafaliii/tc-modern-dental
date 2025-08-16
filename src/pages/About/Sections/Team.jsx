@@ -1,3 +1,4 @@
+import PageHeader from "../../../components/PageHeader";
 import Title from "../../../components/Title";
 
 const teamMembers = [
@@ -29,10 +30,12 @@ const teamMembers = [
 
 export default function Team() {
   return (
+   <>
+   <PageHeader title="Our Doctors"/>
     <div className="bg-background">
       <div className="min-h-[470px] w-full max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 py-16 relative">
         <div className="flex justify-center mb-6">
-          <Title subtitle="Meet Our Experts" title="Our Dental Team" align="center" />
+          {/* <Title subtitle="Meet Our Experts" title="Our Dental Team" align="center" /> */}
         </div>
 
         {/* Flex container instead of grid */}
@@ -60,5 +63,6 @@ export default function Team() {
         </div>
       </div>
     </div>
+   </>
   );
 }

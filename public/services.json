@@ -1,336 +1,209 @@
 [
   {
     "id": 1,
-    "title": "Specialised Facials",
-    "slug": "specialised-facials",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669442/Specialised_Facials_ws5ycy.webp",
-    "description": "At Dr. Sadia’s Advanced Aesthetic & Laser Center, our Specialised Facials are designed to address specific skin concerns with clinical precision and luxury care. Each treatment combines advanced techniques with carefully selected serums and technology to deliver visible, long-lasting results. Whether you’re targeting acne, dullness, pigmentation, or signs of aging — we have a facial that’s right for you.",
+    "title": "Filling Treatment",
+    "slug": "filling-treatment",
+    "image": "",
+    "description": "Restore decayed or damaged teeth with precision and long-lasting materials. Suitable for both children and adults.",
     "highlights": [
-      "Customised for different skin types and concerns",
-      "Uses medical-grade ingredients and equipment",
-      "Combines science, skincare, and relaxation",
-      "Safe, non-invasive, and with minimal to no downtime",
-      "Suitable for both men and women"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Medicated HydraFacial",
-        "description": "A deep-cleansing facial with medicated serums that hydrate, soothe, and treat acne-prone or sensitive skin."
-      },
-      {
-        "id": 2,
-        "title": "BB Glow Facial",
-        "description": "Gives a semi-permanent glowing effect using BB serum, reducing pigmentation and brightening the skin instantly."
-      },
-      {
-        "id": 3,
-        "title": "Anti-Acne Treatment Facial",
-        "description": "Targets breakouts, clears pores, and reduces oiliness to reveal visibly clearer, healthier skin."
-      },
-      {
-        "id": 4,
-        "title": "Special Whitening Facial",
-        "description": "Brightens dull skin and evens out tone, reducing pigmentation and sun damage for a radiant look."
-      },
-      {
-        "id": 5,
-        "title": "Carbon Facial",
-        "description": "A laser-based facial that deeply cleanses, shrinks pores, and delivers an instant glow with no downtime."
-      },
-      {
-        "id": 6,
-        "title": "Vampire Facial",
-        "description": "Uses your own PRP to boost collagen, improve texture, and restore youthful firmness and glow."
-      },
-      {
-        "id": 7,
-        "title": "HydraFacial with Microabrasion & UV Light",
-        "description": "Combines exfoliation, hydration, and UV therapy for cleaner, brighter, and bacteria-free skin."
-      },
-      {
-        "id": 8,
-        "title": "PRP Face with Vampire Facial",
-        "description": "A powerful blend of PRP and microneedling that rejuvenates skin, reduces signs of aging, and adds firmness."
-      }
+      "Prevents further tooth decay",
+      "Restores natural tooth shape",
+      "Durable and aesthetic",
+      "Pain-managed and comfortable"
     ]
   },
   {
     "id": 2,
-    "title": "Skin Rejuvenation",
-    "slug": "skin-rejuvenation",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669442/Skin_Rejuvenation_lfm03p.jpg",
-    "description": "Our Skin Rejuvenation treatments are designed to restore, renew, and refresh your skin from deep within. Using scientifically proven techniques and dermatological expertise, we help reverse signs of aging, reduce imperfections, and improve overall skin health. Whether you’re looking to achieve a youthful glow or correct specific concerns, our advanced therapies offer real results.",
+    "title": "Scaling & Polishing",
+    "slug": "scaling-polishing",
+    "image": "",
+    "description": "Remove plaque, tartar, and stains to maintain healthy gums and teeth, preventing gum disease.",
     "highlights": [
-      "Stimulates collagen and skin renewal",
-      "Improves tone, texture, and clarity",
-      "Reduces fine lines, scars, and pigmentation",
-      "Non-surgical, safe, and effective methods",
-      "Enhances natural radiance with minimal downtime"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Chemical Peels",
-        "description": "A controlled exfoliation treatment that removes dead skin layers, improves tone, and reduces blemishes and pigmentation."
-      },
-      {
-        "id": 2,
-        "title": "PRP Face",
-        "description": "Uses your own platelet-rich plasma to boost skin regeneration, improve texture, and promote a youthful glow."
-      },
-      {
-        "id": 3,
-        "title": "Microneedling",
-        "description": "Tiny needles create micro-injuries to stimulate collagen production, reducing scars, fine lines, and dullness."
-      },
-      {
-        "id": 4,
-        "title": "Dermaplaning",
-        "description": "A gentle exfoliation technique that removes peach fuzz and dead skin cells, leaving your face ultra-smooth and bright."
-      },
-      {
-        "id": 5,
-        "title": "Microabrasion",
-        "description": "Deeply exfoliates the skin’s surface to improve tone and texture, refine pores, and boost cell turnover."
-      }
+      "Prevents gum disease",
+      "Removes plaque and tartar",
+      "Brightens teeth",
+      "Quick and painless"
     ]
   },
   {
     "id": 3,
-    "title": "Anti-Aging Treatments",
-    "slug": "anti-aging-treatments",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669442/Anti-Aging_Treatments_y6tnhh.jpg",
-    "description": "Our Anti-Aging Treatments are designed to preserve youthfulness and restore skin’s firmness, smoothness, and vitality. Using global gold-standard techniques, we focus on non-surgical solutions that deliver visible results with precision and safety. Whether it’s lifting, tightening, wrinkle reduction, or restoring lost volume, we offer personalized care to meet your unique needs.",
+    "title": "Root Canal Treatment",
+    "slug": "root-canal",
+    "image": "",
+    "description": "Save infected teeth by removing pulp and sealing them, relieving pain while preserving natural teeth.",
     "highlights": [
-      "Non-surgical solutions with natural-looking results",
-      "Targets wrinkles, sagging, and volume loss",
-      "Stimulates collagen and skin tightening",
-      "Quick procedures with minimal downtime",
-      "Performed by certified medical professionals"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "HIFU",
-        "description": "High-Intensity Focused Ultrasound tightens and lifts sagging skin by stimulating deep collagen production — without needles or downtime."
-      },
-      {
-        "id": 2,
-        "title": "Botox",
-        "description": "Temporarily relaxes facial muscles to smooth dynamic wrinkles, such as forehead lines and crow’s feet, for a youthful appearance."
-      },
-      {
-        "id": 3,
-        "title": "Dermal Filler",
-        "description": "Restores lost volume in cheeks, lips, and under eyes while contouring facial features for a refreshed, balanced look."
-      },
-      {
-        "id": 4,
-        "title": "Thread Lift",
-        "description": "A minimally invasive lifting technique using dissolvable threads to tighten sagging skin and improve facial structure."
-      },
-      {
-        "id": 5,
-        "title": "Mesotherapy",
-        "description": "A cocktail of vitamins, enzymes, and peptides injected into the skin to improve elasticity, hydration, and glow."
-      },
-      {
-        "id": 6,
-        "title": "Mesotherapy Under Eye for Wrinkle Reduction",
-        "description": "Targets fine lines, dark circles, and puffiness under the eyes, rejuvenating the delicate area with micro-injections of nourishing serums."
-      }
+      "Relieves severe toothache",
+      "Prevents extraction",
+      "Preserves natural teeth",
+      "Safe and precise"
     ]
   },
   {
     "id": 4,
-    "title": "Aesthetic Care",
-    "slug": "aesthetic-care",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669442/Aesthetic_Care_l4xpr6.jpg",
-    "description": "Our Aesthetic Care services focus on enhancing natural beauty through precision-based, non-invasive treatments tailored to each individual. From skin tone correction to long-term skincare guidance, we provide advanced solutions that blend science and artistry — all under expert supervision.",
+    "title": "Dental Tourism / New Tooth Replacement",
+    "slug": "dental-tourism",
+    "image": "",
+    "description": "Get new teeth replacements or full dental rehabilitation with high-quality care and modern techniques.",
     "highlights": [
-      "Holistic approach to facial harmony and skin health",
-      "Customized, client-focused treatment planning",
-      "Safe, effective, and non-surgical methods",
-      "Combines medical aesthetics with luxury care",
-      "Ongoing support through follow-ups and monitoring"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Personalized Facial Aesthetics",
-        "description": "Customized treatments designed to enhance facial balance, improve symmetry, and highlight natural features with precision."
-      },
-      {
-        "id": 2,
-        "title": "Non-Surgical Rejuvenation",
-        "description": "Combines modern techniques like Botox, fillers, and threads to restore youthfulness without surgery or downtime."
-      },
-      {
-        "id": 3,
-        "title": "Advanced Skincare Solutions",
-        "description": "Medical-grade skincare regimens and in-clinic treatments to correct issues like acne, pigmentation, and aging signs."
-      },
-      {
-        "id": 4,
-        "title": "Skin Brightening Treatments",
-        "description": "Targets dull, uneven skin tone and pigmentation with powerful brightening agents to restore a radiant, healthy glow."
-      },
-      {
-        "id": 5,
-        "title": "Consultation & Follow-up Care",
-        "description": "One-on-one expert consultations and continuous monitoring to ensure safe progress, optimal results, and client satisfaction."
-      }
+      "High-quality dental replacements",
+      "Restores function and aesthetics",
+      "Safe and effective procedures"
     ]
   },
   {
     "id": 5,
-    "title": "Fat Reduction",
-    "slug": "fat-reduction",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669441/double-chin-liposuction_x4ec8r.jpg",
-    "description": "Our Fat Reduction treatments are non-surgical, targeted, and effective, helping clients achieve a more sculpted and toned look without the risks or recovery time of surgery. With advanced technologies like HIFU and contouring protocols, we focus on stubborn fat areas while ensuring skin firmness and safety.",
+    "title": "Tooth Extraction",
+    "slug": "tooth-extraction",
+    "image": "",
+    "description": "Safe removal of damaged or problematic teeth to prevent further oral issues, with pain-managed procedures.",
     "highlights": [
-      "Non-invasive, safe fat reduction solutions",
-      "No cuts, no downtime, long-lasting results",
-      "Targets specific problem areas like the abdomen & chin",
-      "Enhances body contour and tightens skin",
-      "Suitable for both men and women"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Body Fat Reduction (Without HIFU)",
-        "description": "A non-HIFU method using medical protocols to break down stubborn fat layers, improving body contour naturally over time."
-      },
-      {
-        "id": 2,
-        "title": "Body Fat Reduction (With HIFU)",
-        "description": "Combining high-intensity ultrasound to penetrate deep fat layers, breaking them down and tightening skin for a slimmer shape."
-      },
-      {
-        "id": 3,
-        "title": "Double Chin Fat Reduction",
-        "description": "Targets and reduces excess fat under the chin, refining jawline definition and enhancing overall facial profile — non-surgically."
-      }
+      "Removes decayed or impacted teeth",
+      "Pain-controlled procedure",
+      "Prevents infection and overcrowding"
     ]
   },
   {
     "id": 6,
-    "title": "LASER Treatments",
-    "slug": "laser-treatments",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669443/LASER_Treatments_qmdxlh.jpg",
-    "description": "Our advanced laser treatments offer effective, safe, and permanent solutions for unwanted hair removal. Using state-of-the-art laser technology, we target hair follicles precisely to reduce and prevent hair growth, giving you smooth, clear skin with minimal discomfort and no downtime.",
+    "title": "Fiber Bridge Treatment",
+    "slug": "fiber-bridge",
+    "image": "",
+    "description": "Replace missing teeth with strong, natural-looking fiber bridges for functional and aesthetic restoration.",
     "highlights": [
-      "Permanent hair reduction with precision lasers",
-      "Safe and minimally uncomfortable procedure",
-      "Suitable for sensitive and small areas",
-      "Quick sessions with lasting results",
-      "Suitable for all skin types"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Permanent Hair Removal (Upper Lip Area)",
-        "description": "Targets unwanted hair on the upper lip for a smooth, hair-free look without irritation, ideal for sensitive facial skin."
-      },
-      {
-        "id": 2,
-        "title": "Chin Area",
-        "description": "Effectively reduces hair growth on the chin, enhancing your natural contours and reducing the need for regular shaving or waxing."
-      },
-      {
-        "id": 3,
-        "title": "Cheek Area",
-        "description": "Gentle yet powerful treatment for the cheeks to remove fine, unwanted hair and brighten facial appearance."
-      },
-      {
-        "id": 4,
-        "title": "Full Face Combo",
-        "description": "Comprehensive laser hair removal covering upper lip, chin, cheeks, and other facial areas for complete, lasting smoothness."
-      }
+      "Durable and aesthetic",
+      "Restores chewing and speech",
+      "Minimally invasive procedure"
     ]
   },
   {
     "id": 7,
-    "title": "Pigmentation Reduction",
-    "slug": "pigmentation-reduction",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669444/Pigmentation_Reduction_hb8fut.jpg",
-    "description": "Our pigmentation reduction treatments are designed to gently and effectively lighten dark spots and uneven skin tones, restoring a brighter, more uniform complexion. Using advanced technologies and targeted protocols, we focus on problem areas while ensuring skin health and safety.",
+    "title": "Orthodontics (Teeth Straightening)",
+    "slug": "orthodontics",
+    "image": "",
+    "description": "Correct misaligned teeth and bite issues using braces or clear aligners, enhancing appearance and oral health.",
     "highlights": [
-      "Safe and non-invasive pigmentation solutions",
-      "Targets stubborn dark spots and uneven tones",
-      "Enhances skin brightness and clarity",
-      "Suitable for delicate facial areas",
-      "Appropriate for all skin types"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Dark Eye or Under Eye Pigmentation Reduction",
-        "description": "Specifically targets dark circles and pigmentation under the eyes, reducing discoloration and revitalizing the delicate skin for a fresher, well-rested look."
-      },
-      {
-        "id": 2,
-        "title": "Lip Depigmentation or Rosy Lips",
-        "description": "Lightens uneven pigmentation on the lips and enhances natural lip color, creating a soft, rosy, and youthful appearance."
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Pico Laser",
-    "slug": "pico-laser",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748800236/young-beautiful-girl-lies-beautician-s-table-receives-procedures_mrwmzb.jpg",
-    "description": "Pico Laser is an advanced laser treatment that targets pigmentation, acne scars, and skin rejuvenation with ultra-short laser pulses. It provides faster results with minimal downtime and is safe for all skin types.",
-    "highlights": [
-      "Removes pigmentation, melasma, and freckles effectively",
-      "Stimulates collagen for smoother, firmer skin",
-      "Minimal discomfort with quick recovery",
-      "Safe for all skin tones and types",
-      "Visible results in fewer sessions"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Pigmentation Removal",
-        "description": "Targets and breaks down excess pigmentation like sunspots and melasma, revealing clearer, more even-toned skin."
-      },
-      {
-        "id": 2,
-        "title": "Acne Scar Reduction",
-        "description": "Stimulates collagen to improve acne scars and skin texture, helping you achieve smoother skin without harsh downtime."
-      },
-      {
-        "id": 3,
-        "title": "Skin Rejuvenation",
-        "description": "Boosts overall skin clarity and tone by revitalizing the skin from within through ultra-fast laser energy pulses."
-      }
+      "Corrects crooked teeth",
+      "Improves bite alignment",
+      "Clear and metal braces available"
     ]
   },
   {
     "id": 8,
-    "title": "Other Services",
-    "slug": "other-services",
-    "image": "https://res.cloudinary.com/dro6y5qla/image/upload/v1748669443/others_errikm.jpg",
-    "description": "We offer a range of safe, professional skin and piercing services designed to enhance your appearance and comfort. Our expert team uses precise, hygienic techniques ensuring effective results with minimal discomfort.",
+    "title": "Smile Design",
+    "slug": "smile-design",
+    "image": "",
+    "description": "Enhance your smile by reshaping teeth, adjusting alignment, and improving aesthetics with customized plans.",
     "highlights": [
-      "Safe, sterile procedures are performed by experienced professionals",
-      "Quick recovery with minimal downtime",
-      "Suitable for sensitive skin and delicate areas",
-      "Customized care and aftercare guidance",
-      "Services are available for both men and women"
-    ],
-    "services": [
-      {
-        "id": 1,
-        "title": "Mole, Skin Wart, Skin Tag Removal",
-        "description": "Gentle and effective removal of moles, warts, and skin tags using medical-grade treatments to restore smooth, healthy skin with minimal scarring."
-      },
-      {
-        "id": 2,
-        "title": "Medicated Piercing, Ear Piercing, Nose Piercing",
-        "description": "Professional piercing services using medicated tools and sterile techniques to ensure safe, precise, and hygienic ear and nose piercings with expert aftercare."
-      }
+      "Tailored smile enhancement",
+      "Corrects uneven teeth",
+      "Improves confidence"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tooth Whitening",
+    "slug": "tooth-whitening",
+    "image": "",
+    "description": "Safe whitening procedures to brighten your teeth, giving a radiant and confident smile.",
+    "highlights": [
+      "Removes stains and discoloration",
+      "Safe for enamel",
+      "Instant and noticeable results"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Black Gum Treatment",
+    "slug": "black-gum-treatment",
+    "image": "",
+    "description": "Restore healthy gum color and reduce pigmentation for improved aesthetics and oral health.",
+    "highlights": [
+      "Reduces dark gum pigmentation",
+      "Safe and effective procedure",
+      "Enhances smile aesthetics"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tooth Shaping (Contouring)",
+    "slug": "tooth-shaping",
+    "image": "",
+    "description": "Correct uneven teeth edges and reshape for a uniform and beautiful smile.",
+    "highlights": [
+      "Smoothens uneven teeth",
+      "Enhances smile appearance",
+      "Quick and painless procedure"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "U-Veneers",
+    "slug": "u-veneers",
+    "image": "",
+    "description": "Thin custom shells covering imperfections to create a perfect, natural-looking teeth appearance.",
+    "highlights": [
+      "Corrects discoloration and chips",
+      "Improves smile aesthetics",
+      "Long-lasting and durable"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Partial Denture Teeth",
+    "slug": "partial-denture-teeth",
+    "image": "",
+    "description": "Removable dental prosthesis to replace missing teeth while preserving surrounding natural teeth.",
+    "highlights": [
+      "Restores chewing function",
+      "Maintains surrounding teeth",
+      "Custom-fit and comfortable"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Dental Crowns & Bridges",
+    "slug": "crowns-bridges",
+    "image": "",
+    "description": "High-quality crowns and bridges restore damaged or missing teeth, improving function and aesthetics.",
+    "highlights": [
+      "Restores teeth strength",
+      "Custom-made for perfect fit",
+      "Enhances smile aesthetics"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Dental Implant",
+    "slug": "dental-implant",
+    "image": "",
+    "description": "Permanent replacement for missing teeth using titanium implants, restoring chewing function and appearance.",
+    "highlights": [
+      "Strong and permanent solution",
+      "Prevents bone loss",
+      "Natural-looking results"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Fiber Post",
+    "slug": "fiber-post",
+    "image": "",
+    "description": "Supports weak or root-treated teeth by reinforcing them with a durable fiber post.",
+    "highlights": [
+      "Strengthens root canal treated teeth",
+      "Durable and reliable",
+      "Compatible with crowns"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Zirconium Cap / Bridge",
+    "slug": "zirconium-cap-bridge",
+    "image": "",
+    "description": "Durable and aesthetic zirconium crowns or bridges providing long-lasting tooth restoration.",
+    "highlights": [
+      "Natural-looking and strong",
+      "Long-lasting restoration",
+      "Highly aesthetic for front teeth"
     ]
   }
 ]

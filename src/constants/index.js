@@ -5,17 +5,26 @@ export const navLinks = [
     id: "services",
     title: "Services",
     submenu: [
-      { id: "specialised-facials", title: "Specialised Facials" },
-      { id: "skin-rejuvenation", title: "Skin Rejuvenation" },
-      { id: "anti-aging-treatments", title: "Anti-Aging Treatments" },
-      { id: "aesthetic-care", title: "Aesthetic Care" },
-      { id: "fat-reduction", title: "Fat Reduction" },
-      { id: "laser-treatments", title: "LASER Treatments" },
-      { id: "pigmentation-reduction", title: "Pigmentation Reduction" },
-      { id: "pico-laser", title: "Pico Laser" },
-      { id: "other-services", title: "Other Services" },
-    ],
+      { id: "filling-treatment", title: "Filling Treatment" },
+      { id: "scaling-polishing", title: "Scaling & Polishing Treatment" },
+      { id: "root-canal", title: "Root Canal Treatment" },
+      { id: "dental-tourism", title: "Dental Tourism / New Tooth Replacement" },
+      { id: "tooth-extraction", title: "Tooth Extraction Treatment" },
+      { id: "fiber-bridge", title: "Fiber Bridge Treatment" },
+      { id: "orthodontics", title: "Orthodontics (Teeth Straightening) Treatments" },
+      { id: "smile-design", title: "Smile Design" },
+      { id: "tooth-whitening", title: "Tooth Whitening" },
+      { id: "black-gum-treatment", title: "Black Gum Treatment" },
+      { id: "tooth-shaping", title: "Tooth Shaping (Uneven Teeth Correction)" },
+      { id: "u-veneers", title: "U-Veneers" },
+      { id: "partial-denture", title: "Partial Denture Teeth" },
+      { id: "crowns-bridges", title: "Dental Crowns & Bridges" },
+      { id: "dental-implant", title: "Dental Implant" },
+      { id: "fiber-post", title: "Fiber Post" },
+      { id: "zirconium-cap", title: "Zirconium Cap / Bridge" },
+    ]
   },
+  { id: "doctors", title: "Doctors" },
   { id: "contact", title: "Contact" },
 ];
 
@@ -33,7 +42,7 @@ export const dentalServices = [
       { no: 8, name: "Tooth gap/Diastema Closure" },
     ],
   },
-   {
+  {
     category: "Prosthetic Treatments",
     services: [
       { no: 17, name: "Cap (Johnson, each)" },
@@ -70,7 +79,7 @@ export const dentalServices = [
       { no: 32, name: "Pulpectomy" },
     ],
   },
- 
+
   {
     category: "Orthodontic Treatment",
     services: [
@@ -88,7 +97,7 @@ export const dentalServices = [
       { no: 28, name: "MS" },
     ],
   },
-  
+
 ];
 
 
@@ -97,7 +106,7 @@ export const services = [
     id: 1,
     image: "https://res.cloudinary.com/dro6y5qla/image/upload/v1748016084/WhatsApp_Image_2025-05-23_at_2.25.50_PM_tofdmd.jpg",
     title: "Regular Dental Check-up",
-description: "Routine dental examinations to assess overall oral hygiene, identify early signs of cavities, gum disease, or other dental issues, and provide timely preventive care."
+    description: "Routine dental examinations to assess overall oral hygiene, identify early signs of cavities, gum disease, or other dental issues, and provide timely preventive care."
 
   },
   {
