@@ -1,32 +1,8 @@
 import PageHeader from "../../../components/PageHeader";
 import Title from "../../../components/Title";
 
-const teamMembers = [
-  {
-    name: "Dr. Suraiya Farjana Mithila",
-    designations: ["BDS (DU)", "PGT (OMS) (DDC), BSMMU", "PGT (Conservative Dentistry & Endodontics) (DDC)", "Lecturer (Conservative Dentistry & Endodontics)(PDCH)", "Chief Consultant (Care N’ Cure Dental)" ,"BMDC Reg. No: 6530"],
-    image:
-      "https://res.cloudinary.com/dro6y5qla/image/upload/v1747629644/team1_e6yqmb.png",
-  },
-  // {
-  //   name: "Dr. Fatema Farhana Shathi",
-  //   designations: ["B.D.S (DU), M.D.S, Ph.D", "Trained in Dental Implant", "Consultant, Oral & Maxillofacial Surgeon", "BMDC Reg. No: 5731"],
-  //   image:
-  //     "https://res.cloudinary.com/dro6y5qla/image/upload/v1747629644/team2_o1jrin.png",
-  // },
-  {
-    name: "Sultana Yeasmin (Misty)",
-    designations: ["Clinic Assistant"],
-    image:
-      "https://res.cloudinary.com/dro6y5qla/image/upload/v1747731225/team_qxg4bf.png",
-  },
-  {
-    name: "Md. Kajol Ashrafi",
-    designations: ["Clinic Assistant"],
-    image:
-      "https://res.cloudinary.com/dro6y5qla/image/upload/v1747731225/team4_kzszrb.png",
-  },
-];
+
+import { teamMembers } from "../../../constants";
 
 export default function Team() {
   return (

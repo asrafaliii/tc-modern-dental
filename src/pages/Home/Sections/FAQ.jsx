@@ -4,54 +4,54 @@ import Title from '../../../components/Title';
 
 const faqs = [
   {
-    question: "What services does Dr. Sadia’s Advanced Aesthetic & Laser Center offer?",
+    question: "What services does Modern Dental Center offer?",
     answer:
-      "We offer a wide range of aesthetic and laser treatments including HydraFacials, laser hair removal, PRP therapy, carbon laser facials, chemical peels, anti-aging solutions, acne treatments, and more.",
+      "We provide comprehensive dental care including Cosmetic Dentistry, Orthodontics (Braces & Aligners), Dental Implants, Root Canal Treatment, Pediatric Dentistry, Oral & Maxillofacial Surgery, and Preventive Dentistry.",
   },
   {
-    question: "What is the most popular treatment?",
+    question: "Do you offer Cosmetic Dentistry?",
     answer:
-      "Our most requested treatments include HydraFacial, laser hair removal, PRP therapy, and carbon laser facials for their effectiveness and visible results.",
+      "Yes, we provide advanced cosmetic dentistry services including teeth whitening, veneers, smile design, and aesthetic restorations.",
   },
   {
-    question: "Do you treat male clients?",
+    question: "Do you treat children?",
     answer:
-      "Yes, we provide services for both men and women. All treatments are tailored to the unique skin needs of each client.",
+      "Yes, we have specialized pediatric dental services ensuring a comfortable and friendly environment for children.",
   },
   {
     question: "Is prior booking required?",
     answer:
-      "Yes, we encourage clients to book appointments in advance for the best experience and availability.",
+      "Yes, we recommend booking appointments in advance to ensure your preferred time slot with our consultants.",
   },
   {
-    question: "Do you offer free consultations?",
+    question: "Do you provide emergency dental care?",
     answer:
-      "We provide free consultations during special occasions or campaigns. Otherwise, our consultation fee is ৳1,479.",
+      "Yes, we provide urgent dental care for toothaches, broken teeth, swelling, and other emergencies.",
   },
   {
     question: "How do I book an appointment?",
     answer:
-      "Appointments can be booked by calling us at +880 1776-895468 or messaging us on Facebook or Instagram.",
+      "Appointments can be booked by calling our helpline 01722622226, Reception 01920643293, or via WhatsApp 01763-073983.",
   },
   {
-    question: "What skin types do you treat?",
+    question: "Which branches do you have?",
     answer:
-      "We treat all skin types, including sensitive, acne-prone, pigmented, and aging skin. Our treatments are customized to your needs.",
+      "We have branches in Uttar Badda (Main Branch), Middle Badda, and Satarkul Road, Dhaka.",
   },
   {
-    question: "Is laser hair removal permanent?",
+    question: "Do you provide Dental Implant services?",
     answer:
-      "Laser hair removal provides long-term hair reduction. Multiple sessions are needed for optimal results, though it's not 100% permanent.",
+      "Yes, we provide advanced dental implant treatments by highly trained consultants with international certifications.",
   },
   {
-    question: "Is there any downtime after treatments?",
+    question: "Are consultations free?",
     answer:
-      "Most treatments are non-invasive with little to no downtime. Detailed post-care instructions are provided after each session.",
+      "Consultation fees depend on the doctor, but sometimes we provide free consultations during special campaigns.",
   },
   {
-    question: "Does laser treatment cause cancer?",
+    question: "Is teeth whitening safe?",
     answer:
-      "No, laser treatments do not cause cancer. We use FDA-approved devices that are safe for cosmetic use and affect only the skin's surface.",
+      "Yes, our teeth whitening procedures are safe, FDA-approved, and performed by professional dentists for the best results.",
   },
 ];
 
@@ -67,7 +67,7 @@ const FAQ = () => {
       <div className="text-center mb-12">
         <Title
           subtitle="Everything You Need to Know"
-          title="Frequently Asked Questions"
+          title="Dental FAQs"
           align="center"
         />
       </div>
@@ -81,7 +81,9 @@ const FAQ = () => {
             >
               {item.question}
               <FiChevronDown
-                className={`h-5 w-5 transform transition-transform duration-300 ${activeIndex === index ? 'rotate-180' : ''}`}
+                className={`h-5 w-5 transform transition-transform duration-300 ${
+                  activeIndex === index ? 'rotate-180' : ''
+                }`}
               />
             </button>
             {activeIndex === index && (

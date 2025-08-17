@@ -3,7 +3,8 @@
     "id": 1,
     "title": "Filling Treatment",
     "slug": "filling-treatment",
-    "image": "",
+    "image": "https://teeth.org.au/media/uh3j11su/gettyimages-899199914-copy.jpeg?width=750&height=570&format=WebP&v=1d9fdee1ff78820",
+    "video": "https://www.youtube.com/watch?v=abcd1234",
     "description": "Restore decayed or damaged teeth with precision and long-lasting materials. Suitable for both children and adults.",
     "highlights": [
       "Prevents further tooth decay",
@@ -16,7 +17,8 @@
     "id": 2,
     "title": "Scaling & Polishing",
     "slug": "scaling-polishing",
-    "image": "",
+    "image": "https://newwayorthodontic.com/wp-content/uploads/2023/12/Scaling.jpg",
+    "video": "https://www.youtube.com/watch?v=efgh5678",
     "description": "Remove plaque, tartar, and stains to maintain healthy gums and teeth, preventing gum disease.",
     "highlights": [
       "Prevents gum disease",
@@ -29,7 +31,7 @@
     "id": 3,
     "title": "Root Canal Treatment",
     "slug": "root-canal",
-    "image": "",
+    "image": "https://www.glmc.ae/wp-content/uploads/2022/12/Root-Canal-Treatment-Birmingham-Mark-Tangri-Dental-Excellence-p26b0l58u7a77txmqyafcvd8z4e0rr8zmooo9cp9q8-1024x683.jpg",
     "description": "Save infected teeth by removing pulp and sealing them, relieving pain while preserving natural teeth.",
     "highlights": [
       "Relieves severe toothache",
@@ -42,7 +44,8 @@
     "id": 4,
     "title": "Dental Tourism / New Tooth Replacement",
     "slug": "dental-tourism",
-    "image": "",
+    "image": "https://aluxdental.com/wp-content/uploads/2019/08/single-tooth-implant-1200x900.jpg",
+    "video": "https://www.youtube.com/watch?v=mnop3456",
     "description": "Get new teeth replacements or full dental rehabilitation with high-quality care and modern techniques.",
     "highlights": [
       "High-quality dental replacements",
@@ -54,7 +57,8 @@
     "id": 5,
     "title": "Tooth Extraction",
     "slug": "tooth-extraction",
-    "image": "",
+    "image": "https://boiseoralsurgery.com/wp-content/uploads/2022/03/is-a-tooth-extraction-painful.jpeg",
+    "video": "https://www.youtube.com/watch?v=qrst7890",
     "description": "Safe removal of damaged or problematic teeth to prevent further oral issues, with pain-managed procedures.",
     "highlights": [
       "Removes decayed or impacted teeth",
@@ -66,7 +70,8 @@
     "id": 6,
     "title": "Fiber Bridge Treatment",
     "slug": "fiber-bridge",
-    "image": "",
+    "image": "https://durbandentalcare.co.za/wp-content/uploads/2024/02/hq720-e1708511005891.jpg",
+    "video": "https://www.youtube.com/watch?v=uvwx1234",
     "description": "Replace missing teeth with strong, natural-looking fiber bridges for functional and aesthetic restoration.",
     "highlights": [
       "Durable and aesthetic",
@@ -78,7 +83,8 @@
     "id": 7,
     "title": "Orthodontics (Teeth Straightening)",
     "slug": "orthodontics",
-    "image": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroKMeGJtLZL0h0jOQ61ZJv7AFSbnSB-QbHQ&s",
+    "video": "https://www.youtube.com/watch?v=yzab5678",
     "description": "Correct misaligned teeth and bite issues using braces or clear aligners, enhancing appearance and oral health.",
     "highlights": [
       "Corrects crooked teeth",
@@ -90,7 +96,8 @@
     "id": 8,
     "title": "Smile Design",
     "slug": "smile-design",
-    "image": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVWFc91eXtQo-z8ppNbzN4dnuztwdaena0Q&s",
+    "video": "https://www.youtube.com/watch?v=cdef9012",
     "description": "Enhance your smile by reshaping teeth, adjusting alignment, and improving aesthetics with customized plans.",
     "highlights": [
       "Tailored smile enhancement",
@@ -102,7 +109,8 @@
     "id": 9,
     "title": "Tooth Whitening",
     "slug": "tooth-whitening",
-    "image": "",
+    "image": "https://www.news-medical.net/image-handler/picture/2021/4/shutterstock_56198956.jpg",
+    "video": "https://www.youtube.com/watch?v=ghij3456",
     "description": "Safe whitening procedures to brighten your teeth, giving a radiant and confident smile.",
     "highlights": [
       "Removes stains and discoloration",
@@ -114,7 +122,8 @@
     "id": 10,
     "title": "Black Gum Treatment",
     "slug": "black-gum-treatment",
-    "image": "",
+    "image": "https://ariesorofacial.com/wp-content/uploads/2023/06/New-Project-28-2.webp",
+    "video": "https://www.youtube.com/watch?v=klmn7890",
     "description": "Restore healthy gum color and reduce pigmentation for improved aesthetics and oral health.",
     "highlights": [
       "Reduces dark gum pigmentation",
@@ -126,7 +135,8 @@
     "id": 11,
     "title": "Tooth Shaping (Contouring)",
     "slug": "tooth-shaping",
-    "image": "",
+    "image": "https://mayfielddental.com/wp-content/uploads/2025/01/COSMETIC-TOOTH-RESHAPING.jpeg",
+    "video": "https://www.youtube.com/watch?v=opqr1234",
     "description": "Correct uneven teeth edges and reshape for a uniform and beautiful smile.",
     "highlights": [
       "Smoothens uneven teeth",
@@ -138,7 +148,8 @@
     "id": 12,
     "title": "U-Veneers",
     "slug": "u-veneers",
-    "image": "",
+    "image": "https://www.jacobsondental.com.au/wp-content/uploads/2020/11/uveneer.jpg",
+    "video": "https://www.youtube.com/watch?v=stuv5678",
     "description": "Thin custom shells covering imperfections to create a perfect, natural-looking teeth appearance.",
     "highlights": [
       "Corrects discoloration and chips",
@@ -150,7 +161,8 @@
     "id": 13,
     "title": "Partial Denture Teeth",
     "slug": "partial-denture-teeth",
-    "image": "",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYfcu9T6LKAz-N-4PioB4Jmv4n5L7u6-Rkg&s",
+    "video": "https://www.youtube.com/watch?v=wxyz9012",
     "description": "Removable dental prosthesis to replace missing teeth while preserving surrounding natural teeth.",
     "highlights": [
       "Restores chewing function",
@@ -162,7 +174,8 @@
     "id": 14,
     "title": "Dental Crowns & Bridges",
     "slug": "crowns-bridges",
-    "image": "",
+    "image": "https://www.designdental.com.au/wp-content/uploads/2021/08/crowns-bridges.jpg",
+    "video": "https://www.youtube.com/watch?v=abcd3456",
     "description": "High-quality crowns and bridges restore damaged or missing teeth, improving function and aesthetics.",
     "highlights": [
       "Restores teeth strength",
@@ -174,7 +187,8 @@
     "id": 15,
     "title": "Dental Implant",
     "slug": "dental-implant",
-    "image": "",
+    "image": "https://www.perio.org/wp-content/uploads/2020/02/dental-implant.png",
+    "video": "https://www.youtube.com/watch?v=efgh7890",
     "description": "Permanent replacement for missing teeth using titanium implants, restoring chewing function and appearance.",
     "highlights": [
       "Strong and permanent solution",
@@ -186,7 +200,8 @@
     "id": 16,
     "title": "Fiber Post",
     "slug": "fiber-post",
-    "image": "",
+    "image": "https://www.researchgate.net/publication/379387937/figure/fig1/AS:11431281232457742@1711723373610/Resin-pattern-made-of-post-space_Q320.jpg",
+    "video": "https://www.youtube.com/watch?v=ijkl1234",
     "description": "Supports weak or root-treated teeth by reinforcing them with a durable fiber post.",
     "highlights": [
       "Strengthens root canal treated teeth",
@@ -198,7 +213,8 @@
     "id": 17,
     "title": "Zirconium Cap / Bridge",
     "slug": "zirconium-cap-bridge",
-    "image": "",
+    "image": "https://s16736.pcdn.co/wp-content/uploads/sites/494/2019/05/KentDentalZirconiaCrownMay-min-768x512.jpg.optimal.jpg",
+    "video": "https://www.youtube.com/watch?v=mnop5678",
     "description": "Durable and aesthetic zirconium crowns or bridges providing long-lasting tooth restoration.",
     "highlights": [
       "Natural-looking and strong",

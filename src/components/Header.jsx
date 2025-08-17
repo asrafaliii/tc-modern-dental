@@ -81,7 +81,7 @@ const Header = () => {
           {/* Appointment */}
           <div className="flex items-center gap-2 bg-primary text-white px-4 py-2 rounded-full cursor-pointer">
             <FaPhone className="mr-2" />
-            <a href="tel:+880123456789">+880 1234 567 89</a>
+            <a href="tel:+8801722622226">01722622226</a>
           </div>
         </div>
 

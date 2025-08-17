@@ -11,7 +11,7 @@ const ContactCard = () => {
           {/* Image (Top on mobile, right on desktop) */}
           <div className="order-1 lg:order-2 flex justify-center">
             <img
-              src="https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.35.41_PM_lpf98r.jpg"
+              src="https://res.cloudinary.com/dro6y5qla/image/upload/v1755418544/WhatsApp_Image_2025-08-12_at_7.28.25_PM_1_agyzwo.jpg"
               alt="Clinic Location"
               className="w-full h-full max-h-[720px] object-cover rounded-3xl shadow-lg"
             />
@@ -28,12 +28,7 @@ const ContactCard = () => {
               <FaPhoneAlt className="text-primary text-3xl mt-1" />
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Phone</h3>
-                <a href="tel:+8801776895468" className="text-gray-600 hover:text-primary block">
-                 +880 1776-895468
-                </a>
-                <a href="tel:+8801677409088" className="text-gray-600 hover:text-primary block">
-                 +880 1677409088
-                </a>
+                <p className="text-gray-600">01722622226, 01920643293, 01763 073983</p>
               </div>
             </div>
 
@@ -42,7 +37,7 @@ const ContactCard = () => {
               <FaEnvelope className="text-primary text-3xl mt-1" />
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Email</h3>
-                <p className="text-gray-600">dr.sadias.advancedaestheticlaser@gmail.com</p>
+                <p className="text-gray-600">mdc@gmail.com</p>
               </div>
             </div>
 
@@ -52,9 +47,7 @@ const ContactCard = () => {
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Address</h3>
                 <p className="text-gray-600">
-                  Floor-4,
-                  House-153/A (Fuchkawali & Puma building)
-                  Road-11, Banani, Dhaka - 1213
+                  Uttar Badda, Shadhinota Sarani Road, Behind A.M.Z Hospital, Dhaka-1212.
 
                 </p>
               </div>
@@ -67,7 +60,7 @@ const ContactCard = () => {
           <iframe
             title="Google Map"
             className="w-full h-full rounded-lg shadow-lg"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.7863252393263!2d90.4066268!3d23.7906221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c72680a1287f%3A0xe671e85c621a80ec!2sDr.%20Sadia%E2%80%99s%20Advanced%20Aesthetic%20%26%20Laser%20Center!5e0!3m2!1sen!2sbd!4v1748840736097!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.9637628321625!2d90.42701149999999!3d23.7843047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c755caddb3d5%3A0xcf78431cb0a0a0b4!2sModern%20Dental%20Center-MDC!5e0!3m2!1sen!2sbd!4v1755419638527!5m2!1sen!2sbd"
             allowFullScreen=""
             loading="lazy"
           ></iframe>

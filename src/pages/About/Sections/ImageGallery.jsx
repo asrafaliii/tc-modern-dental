@@ -2,17 +2,14 @@ import React, { useState } from "react";
 import Title from "../../../components/Title";
 
 const images = [
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839259/WhatsApp_Image_2025-05-27_at_2.34.39_PM_htccr8.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.34.40_PM_1_zlsb2t.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839259/WhatsApp_Image_2025-05-27_at_2.31.58_PM_bsjbx7.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.34.40_PM_eobkoh.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.34.41_PM_fvznyh.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748803606/WhatsApp_Image_2025-05-27_at_2.31.58_PM_1_tkzf6e.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.34.39_PM_1_l6vixl.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748804474/3dface-2_tapvul.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839259/WhatsApp_Image_2025-05-27_at_2.34.38_PM_1_gbmdxe.jpg",
-  "https://res.cloudinary.com/dro6y5qla/image/upload/v1748839258/WhatsApp_Image_2025-05-27_at_2.34.40_PM_2_oxxkp5.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418544/WhatsApp_Image_2025-08-12_at_7.28.25_PM_1_agyzwo.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418547/WhatsApp_Image_2025-08-12_at_7.28.25_PM_2_slm2uc.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418541/WhatsApp_Image_2025-08-12_at_7.28.26_PM_sbm99l.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418541/WhatsApp_Image_2025-08-12_at_7.28.27_PM_ehiltn.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418541/WhatsApp_Image_2025-08-12_at_7.28.25_PM_esvy35.jpg",
+  "https://res.cloudinary.com/dro6y5qla/image/upload/v1755418540/WhatsApp_Image_2025-08-12_at_7.28.15_PM_zcoitt.jpg",
 ];
+
 
 export default function ImageGallery() {
   const [selectedIndex, setSelectedIndex] = useState(null);

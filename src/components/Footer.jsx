@@ -10,10 +10,10 @@ const Footer = () => {
         {/* Logo and description */}
         <div className="md:max-w-140"> {/* Consider if md:max-w-140 is a custom class or a typo. If it's max-w-xl (for example), use that. Assuming it's a custom width, keep it for desktop. */}
           <Link to="/" className="flex items-center gap-2 text-white text-3xl" style={{ fontFamily: "DM Serif Display" }}>
-            Dr. Sadia’s AALC
+            MDC
           </Link>
           <p className="mt-6 text-sm text-gray-400">
-            Dr. Sadia’s Advanced Aesthetic & Laser Center offers expert aesthetic treatments in a comfortable, professional environment. We are committed to enhancing your natural beauty with advanced technology and personalized care.
+           Providing advanced dental care with modern technology and personalized treatments for a healthy, confident smile.
           </p>
         </div>
 
@@ -61,13 +61,12 @@ const Footer = () => {
           <div className="flex-grow-0"> {/* Use flex-grow-0 to prevent this div from taking extra space horizontally on desktop */}
             <h2 className="font-semibold mb-5 text-white">Contact Us</h2>
             <div className="text-sm space-y-2 text-gray-400">
-              <p>017 7689 5468, 01677409088</p>
-              <p>dr.sadias.advancedaestheticlaser@gmail.com</p>
+              <p>01722622226, 01920643293, 01763 073983</p>
+              {/* <p>dr.sadias.advancedaestheticlaser@gmail.com</p> */}
               {/* Added flex-col for address lines to ensure they stack vertically on mobile */}
               <address className="not-italic flex flex-col"> {/* Use <address> tag for semantic HTML */}
-                <span>Floor-4,</span>
-                <span>House-153/A (Fuchkawali & Puma building)</span>
-                <span>Road-11, Banani, Dhaka - 1213</span>
+                <span>Uttar Badda, Shadhinota Sarani Road, Behind A.M.Z Hospital, Dhaka-1212.</span>
+                
               </address>
             </div>
           </div>
@@ -77,7 +76,7 @@ const Footer = () => {
       {/* Bottom Section */}
       <div className="text-center text-xs md:text-sm text-gray-500">
         <p className="py-3">
-          &copy; {new Date().getFullYear()} Dr. Sadia’s Aesthetic Center. All Rights Reserved. | Designed by{' '}
+          &copy; {new Date().getFullYear()} MDC. All Rights Reserved. | Designed by{' '}
           <a
             href="https://www.threeaid.com"
             target="_blank"
