@@ -51,6 +51,7 @@ export default function ServiceDetails() {
               {service.title}
             </h2>
             <p className="text-gray-700 text-lg">{service.description}</p>
+            <p className="text-gray-700 text-lg mt-2">({service.description_bn})</p>
           </div>
         </div>
       </div>
