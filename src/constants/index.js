@@ -21,7 +21,7 @@ export const navLinks = [
       { id: "crowns-bridges", title: "Dental Crowns & Bridges" },
       { id: "dental-implant", title: "Dental Implant" },
       { id: "fiber-post", title: "Fiber Post" },
-      { id: "zirconium-cap", title: "Zirconium Cap / Bridge" },
+      { id: "zirconium-cap-bridge", title: "Zirconium Cap / Bridge" },
     ]
   },
   { id: "doctors", title: "Doctors" },
@@ -45,31 +45,31 @@ export const teamMembers = [
       "BMDC Reg: 4759",
     ],
     image:
-      "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
+      "https://img.freepik.com/premium-vector/avatar-bearded-doctor-doctor-with-stethoscope-vector-illustrationxa_276184-31.jpg",
   },
-  {
-    name: "Dr. Nowshin Samiha Nayeem",
-    designations: [
-      "B.D.S (DU)",
-      "PGT (Oral and Maxillofacial Surgery) (BSMMU)",
-      "Consultant: Modern Dental Center-MDC",
-      "BMDC Reg: 8483",
-    ],
-    image:
-      "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
-  },
-  {
-    name: "Dr. Fatema Tuj Zohra",
-    designations: [
-      "B.D.S (DU)",
-      "PGT (Oral and Maxillofacial Surgery)",
-      "DDS (On course), Dhaka Dental College",
-      "Consultant: Modern Dental Center-MDC",
-      "BMDC Reg: 11930",
-    ],
-    image:
-      "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
-  },
+  // {
+  //   name: "Dr. Nowshin Samiha Nayeem",
+  //   designations: [
+  //     "B.D.S (DU)",
+  //     "PGT (Oral and Maxillofacial Surgery) (BSMMU)",
+  //     "Consultant: Modern Dental Center-MDC",
+  //     "BMDC Reg: 8483",
+  //   ],
+  //   image:
+  //     "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
+  // },
+  // {
+  //   name: "Dr. Fatema Tuj Zohra",
+  //   designations: [
+  //     "B.D.S (DU)",
+  //     "PGT (Oral and Maxillofacial Surgery)",
+  //     "DDS (On course), Dhaka Dental College",
+  //     "Consultant: Modern Dental Center-MDC",
+  //     "BMDC Reg: 11930",
+  //   ],
+  //   image:
+  //     "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
+  // },
   {
     name: "Dr. Mehjuba Mushrat",
     designations: [
@@ -79,7 +79,7 @@ export const teamMembers = [
       "BMDC Reg: 10145",
     ],
     image:
-      "https://i.pinimg.com/564x/33/3e/c7/333ec75fd482f226a614b2a4355187bc.jpg",
+      "https://img.freepik.com/premium-vector/avatar-bearded-doctor-doctor-with-stethoscope-vector-illustrationxa_276184-31.jpg",
   },
   {
     name: "Dr. Nosheen Tanha",
@@ -105,7 +105,7 @@ export const teamMembers = [
       "https://res.cloudinary.com/dro6y5qla/image/upload/v1755411390/3_i1pgmy.jpg",
   },
   {
-    name: "Dr. Abida Horan Ankon",
+    name: "Dr. Abida Hasan Ankon",
     designations: [
       "BDS (Mymensingh Medical College, Dental Unit)",
       "PGT (Running on OMS), Dhaka Dental College",
