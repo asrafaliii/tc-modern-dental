@@ -36,7 +36,7 @@ export default function ServiceDetails() {
       <PageHeader title={service.title} />
 
       {/* Content Section */}
-      <div className="max-w-6xl mx-auto p-8">
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 py-16">
         <div className="flex flex-col md:flex-row items-center gap-8">
           {/* Left: Image */}
           <img
