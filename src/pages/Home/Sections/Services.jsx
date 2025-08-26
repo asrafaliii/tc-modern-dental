@@ -15,8 +15,8 @@ export default function ServicesGrid() {
   }, []);
 
   return (
-    <section className="bg-background py-16 sm:px-6 lg:px-24">
-      <div className="max-w-screen-xl mx-auto">
+    <section className="bg-background">
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 py-16">
         {/* Section Title */}
         <div className="mb-12 text-center">
           <Title subtitle="What We Do" title="Our Services" align="center" />

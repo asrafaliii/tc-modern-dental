@@ -28,16 +28,16 @@ const AboutUs = () => {
         </div>
 
         {/* Schedule Hours Card */}
-        <div className="absolute bottom-2 right-3 bg-white rounded-xl shadow-lg p-5 w-64">
+        <div className="absolute bottom-2 right-3 bg-white rounded-xl shadow-lg p-5 w-80">
           <h4 className="text-primary font-semibold mb-3">Schedule Hours</h4>
           <ul className="text-sm text-gray-700 space-y-2">
             <li className="flex justify-between">
-              <span>Sat - Thu</span>
-              <span>(05:00PM - 10:00PM)</span>
+              <span>Fri, Sat, Sun, Wed</span>
+              <span>(10:00AM - 10:00PM)</span>
             </li>
-            <li className="flex justify-between text-red-500 font-medium">
-              <span>Friday</span>
-              <span>Closed</span>
+            <li className="flex justify-between">
+              <span>Mon, Tue, Thu</span>
+              <span>(05:00PM - 10:00PM)</span>
             </li>
           </ul>
         </div>
