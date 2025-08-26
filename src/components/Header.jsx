@@ -8,6 +8,7 @@ import logo from "../assets/logo.png";
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState(null); // for mobile submenu toggle
 
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 10);
@@ -15,22 +16,26 @@ const Header = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  const handleDropdownToggle = (id) => {
+    setOpenDropdown(openDropdown === id ? null : id);
+  };
+
   return (
     <div
-      className={`fixed top-0 left-0 w-full z-50 duration-500 ${isScrolled
+      className={`fixed top-0 left-0 w-full z-50 duration-500 ${
+        isScrolled
           ? "bg-white/80 shadow-md backdrop-blur-lg py-3 md:py-4 text-gray-700"
           : "py-4 md:py-6 bg-white/80"
-        }`}
+      }`}
     >
       <nav className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 flex items-center justify-between">
-        {/* Left - Logo */}
+        {/* Logo */}
         <Link to="/">
           <img src={logo} alt="Logo" className="h-14" />
         </Link>
 
-        {/* Right - Nav Links + Icons */}
+        {/* Desktop Nav */}
         <div className="hidden md:flex items-center gap-8">
-          {/* Nav Links */}
           <div className="flex items-center gap-8">
             {navLinks.map((nav) => (
               <div key={nav.id} className="relative group">
@@ -38,9 +43,10 @@ const Header = () => {
                   <NavLink
                     to={nav.id}
                     className={({ isActive }) =>
-                      `text-[18px] font-medium pb-1 ${isActive
-                        ? "text-primary border-b-2 border-primary"
-                        : "text-gray-700 hover:text-primary"
+                      `text-[18px] font-medium pb-1 ${
+                        isActive
+                          ? "text-primary border-b-2 border-primary"
+                          : "text-gray-700 hover:text-primary"
                       }`
                     }
                   >
@@ -48,13 +54,11 @@ const Header = () => {
                   </NavLink>
                 ) : (
                   <>
-                    <button className="flex items-center gap-1 text-[18px] font-medium pb-1 text-gray-700 hover:text-primary focus:outline-none">
+                    <button className="flex items-center gap-1 text-[18px] font-medium pb-1 text-gray-700 hover:text-primary">
                       {nav.title}
-                      <FiChevronDown className="text-gray-600" />
+                      <FiChevronDown />
                     </button>
-
-                    {/* Fixed Dropdown */}
-                    <div className="absolute left-0 mt-3 bg-white shadow-lg rounded-md py-2 px-2 w-56 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 ease-in-out z-50">
+                    <div className="absolute left-0 mt-3 bg-white shadow-lg rounded-md py-2 px-2 w-56 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 z-50">
                       {nav.submenu.slice(0, 6).map((sub) => (
                         <NavLink
                           key={sub.id}
@@ -76,40 +80,34 @@ const Header = () => {
               </div>
             ))}
           </div>
-
-          {/* Separator */}
           <span className="mx-4 text-gray-300">|</span>
-
-          {/* Icons */}
           <div className="flex items-center gap-4">
             <a
-            href="tel:01763073983"
-            className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary cursor-pointer"
-          >
-            <FiPhoneCall size={22} />
-          </a>
-          {/* WhatsApp */}
+              href="tel:01763073983"
+              className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary"
+            >
+              <FiPhoneCall size={22} />
+            </a>
             <a
               href="https://wa.me/8801763073983"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-green-500 hover:border-green-500 cursor-pointer transition"
+              className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-green-500 hover:border-green-500"
             >
               <FaWhatsapp />
             </a>
-            {/* Facebook */}
             <a
               href="https://www.facebook.com/mdcgeneralclinic"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary cursor-pointer transition"
+              className="w-10 h-10 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary"
             >
               <FaFacebookF />
             </a>
           </div>
         </div>
 
-        {/* Mobile Menu Icon */}
+        {/* Mobile Hamburger */}
         <div className="md:hidden flex items-center gap-3">
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -127,8 +125,9 @@ const Header = () => {
 
       {/* Mobile Menu */}
       <div
-        className={`fixed top-0 left-0 w-full h-screen bg-white flex flex-col md:hidden px-6 pt-20 transition-transform duration-500 overflow-y-auto z-40 ${isMenuOpen ? "translate-x-0" : "-translate-x-full"
-          }`}
+        className={`fixed top-0 left-0 w-full h-screen bg-white flex flex-col md:hidden px-6 pt-20 transition-transform duration-500 overflow-y-auto z-40 ${
+          isMenuOpen ? "translate-x-0" : "-translate-x-full"
+        }`}
       >
         <button
           className="absolute top-4 right-4 text-gray-600 hover:text-black"
@@ -143,12 +142,43 @@ const Header = () => {
 
         {navLinks.map((nav) => (
           <div key={nav.id} className="w-full border-b border-gray-200">
-            <NavLink
-              to={nav.id}
-              className="block py-4 text-[18px] font-medium text-gray-700 hover:text-primary"
-            >
-              {nav.title}
-            </NavLink>
+            {!nav.submenu ? (
+              <NavLink
+                to={nav.id}
+                onClick={() => setIsMenuOpen(false)} // close menu on link click
+                className="block py-4 text-[18px] font-medium text-gray-700 hover:text-primary"
+              >
+                {nav.title}
+              </NavLink>
+            ) : (
+              <>
+                <button
+                  onClick={() => handleDropdownToggle(nav.id)}
+                  className="flex justify-between w-full py-4 text-[18px] font-medium text-gray-700"
+                >
+                  {nav.title}
+                  <FiChevronDown
+                    className={`transition-transform ${
+                      openDropdown === nav.id ? "rotate-180" : ""
+                    }`}
+                  />
+                </button>
+                {openDropdown === nav.id && (
+                  <div className="pl-4">
+                    {nav.submenu.map((sub) => (
+                      <NavLink
+                        key={sub.id}
+                        to={`/services/${sub.id}`}
+                        onClick={() => setIsMenuOpen(false)}
+                        className="block py-2 text-gray-600 hover:text-primary"
+                      >
+                        {sub.title}
+                      </NavLink>
+                    ))}
+                  </div>
+                )}
+              </>
+            )}
           </div>
         ))}
 
@@ -156,7 +186,7 @@ const Header = () => {
         <div className="mt-6 flex gap-4">
           <a
             href="tel:01763073983"
-            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary cursor-pointer"
+            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary"
           >
             <FiPhoneCall size={22} />
           </a>
@@ -164,7 +194,7 @@ const Header = () => {
             href="https://wa.me/8801763073983"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-green-500 hover:border-green-500 cursor-pointer"
+            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-green-500 hover:border-green-500"
           >
             <FaWhatsapp size={22} />
           </a>
@@ -172,7 +202,7 @@ const Header = () => {
             href="https://www.facebook.com/mdcgeneralclinic"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary cursor-pointer"
+            className="w-12 h-12 flex items-center justify-center border border-gray-400 rounded-full text-gray-600 hover:text-primary hover:border-primary"
           >
             <FaFacebookF size={22} />
           </a>
