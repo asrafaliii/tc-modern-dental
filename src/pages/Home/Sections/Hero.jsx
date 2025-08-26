@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Button from "../../../components/Button";
+import AppointmentModal from "../../../components/AppointmentModal";
 
 const Hero = () => {
-  const navigate = useNavigate();
+  const [showModal, setShowModal] = useState(false);
 
-  // Static dental background image
   const bgImage =
     "https://res.cloudinary.com/dro6y5qla/image/upload/v1755374378/hero_blxf54.jpg";
 
@@ -33,15 +33,19 @@ const Hero = () => {
           Providing advanced dental care with modern technology and personalized treatments for a healthy, confident smile.
         </p>
 
+        {/* Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-6">
           <Button
-            label="Explore Our Services"
-            onClick={() => navigate("/services")}
+            label="Book Appointment"
+            onClick={() => setShowModal(true)}
             variant="primary"
             className="text-white px-7 py-2.5 rounded font-medium"
           />
         </div>
       </div>
+
+      {/* Appointment Modal */}
+      {showModal && <AppointmentModal onClose={() => setShowModal(false)} />}
     </div>
   );
 };
