@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Button from "../../../components/Button";
 import AppointmentModal from "../../../components/AppointmentModal";
+import { FiPhoneCall } from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Hero = () => {
   const [showModal, setShowModal] = useState(false);
@@ -41,6 +43,25 @@ const Hero = () => {
             variant="primary"
             className="text-white px-7 py-2.5 rounded font-medium"
           />
+
+          {/* Call & WhatsApp icons (only mobile) */}
+<div className="flex sm:hidden items-center gap-3 mt-3">
+  <a
+    href="tel:01763073983"
+    className="w-10 h-10 flex items-center justify-center rounded-full bg-primary text-white shadow-md hover:opacity-90"
+  >
+    <FiPhoneCall size={22} />
+  </a>
+  <a
+    href="https://wa.me/8801763073983"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 flex items-center justify-center rounded-full bg-[#25D366] text-white shadow-md hover:opacity-90"
+  >
+    <FaWhatsapp size={22} />
+  </a>
+</div>
+
         </div>
       </div>
 

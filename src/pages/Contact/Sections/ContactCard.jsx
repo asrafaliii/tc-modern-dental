@@ -4,7 +4,7 @@ import Title from "../../../components/Title"; // Adjust the import if needed
 const ContactCard = () => {
   return (
     <div className="py-16 bg-gray-100">
-      <div className="container mx-auto px-4">
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24">
 
         {/* Contact Info + Image */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12 items-center">
@@ -37,7 +37,7 @@ const ContactCard = () => {
               <FaEnvelope className="text-primary text-3xl mt-1" />
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">Email</h3>
-                <p className="text-gray-600">mdc@gmail.com</p>
+                <p className="text-gray-600">moderndentalcenter540@gmail.com</p>
               </div>
             </div>
 
