@@ -4,38 +4,20 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Title from "../../../components/Title";
 
-const testimonials = [
+const videoTestimonials = [
   {
-    name: "Shakil Ahmed",
-    designation: "CEO, Tech Vision BD",
-    quote:
-      "Excellent service! Their professionalism and commitment to quality exceeded our expectations. We highly recommend them.",
-    image: "https://res.cloudinary.com/dro6y5qla/image/upload/v1747210471/WhatsApp_Image_2025-05-07_at_11.18.47_PM_l8rtt5.jpg",
+    url: "https://www.youtube.com/embed/hO0nhizfHYA", // First video
   },
   {
-    name: "Momena Khatun",
-    designation: "Marketing Manager, BD Solutions",
-    quote:
-      "We were truly impressed with their professional approach and the results delivered. A great team to work with!",
-    image: "https://res.cloudinary.com/dro6y5qla/image/upload/v1747210471/WhatsApp_Image_2025-05-07_at_11.18.47_PM_l8rtt5.jpg",
+    url: "https://www.youtube.com/embed/00dHjNRLsrs", // Second video
   },
   {
-    name: "Tanvir Hasan",
-    designation: "Founder, Startup Dhaka",
-    quote:
-      "Their innovative thinking and dedication helped us achieve our goals. Looking forward to working with them again.",
-    image: "https://res.cloudinary.com/dro6y5qla/image/upload/v1747210471/WhatsApp_Image_2025-05-07_at_11.18.47_PM_l8rtt5.jpg",
+    url: "https://www.youtube.com/embed/hO0nhizfHYA", // Repeat or add more
   },
   {
-    name: "Farzana Rahman",
-    designation: "Director, Creative Hub BD",
-    quote:
-      "Exceptional support and a deep understanding of our needs. They are a valuable partner for our organization.",
-    image: "https://res.cloudinary.com/dro6y5qla/image/upload/v1747210471/WhatsApp_Image_2025-05-07_at_11.18.47_PM_l8rtt5.jpg",
-  },
+    url: "https://www.youtube.com/embed/00dHjNRLsrs", // Second video
+  }
 ];
-
-
 
 const PrevArrow = ({ onClick }) => (
   <div
@@ -56,20 +38,19 @@ const NextArrow = ({ onClick }) => (
 );
 
 export default function Testimonials() {
-
   const settings = {
     infinite: true,
-    slidesToShow: 3,
+    slidesToShow: 2,
     slidesToScroll: 1,
-    autoplay: true,
+    autoplay: false,
     speed: 1000,
     autoplaySpeed: 3000,
     cssEase: "ease-in-out",
-    nextArrow: <NextArrow />, // visible
-    prevArrow: <PrevArrow />, // visible
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
     swipeToSlide: true,
     arrows: true,
-    dots: false, // disable dots
+    dots: false,
     responsive: [
       {
         breakpoint: 1280,
@@ -88,38 +69,35 @@ export default function Testimonials() {
 
   return (
     <div className="bg-background">
-      <div className=" max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 py-16 relative">
-      <div className="flex justify-between items-center mb-6">
-        <Title
-          subtitle="What Our Clients Say"
-          title="Testimonials"
-          align="start"
-        />
-      </div>
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-24 py-16 relative">
+        <div className="flex justify-between items-center mb-6">
+          <Title
+            subtitle="What Our Patients Say"
+            title="Real Stories, Real Smiles"
+            align="start"
+          />
+        </div>
 
-      <Slider {...settings}>
-        {testimonials.map((testimonial, index) => (
-          <div key={index} className="px-4">
-            <div className="bg-white rounded-xl shadow-md overflow-hidden p-6">
-              <img
-                src={testimonial.image}
-                alt={testimonial.name}
-                className="h-20 w-20 object-cover rounded-full mx-auto mb-4"
-              />
-              <h4 className="text-xl font-semibold text-primary text-center mb-2">
-                {testimonial.name}
-              </h4>
-              <p className="text-sm text-gray-600 text-center mb-4">
-                {testimonial.designation}
-              </p>
-              <p className="text-gray-800 italic text-center">
-                "{testimonial.quote}"
-              </p>
+        <Slider {...settings}>
+          {videoTestimonials.map((video, index) => (
+            <div key={index} className="px-4">
+              <div className="bg-white rounded-xl shadow-md overflow-hidden p-4">
+                <div className="aspect-w-16 aspect-h-9">
+                  <iframe
+                    width="100%"
+                    height="315"
+                    src={video.url}
+                    title={`Testimonial Video ${index + 1}`}
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
+                </div>
+              </div>
             </div>
-          </div>
-        ))}
-      </Slider>
-    </div>
+          ))}
+        </Slider>
+      </div>
     </div>
   );
 }
