@@ -1,104 +1,107 @@
 [
   {
     "id": 1,
-    "title": "Filling Treatment",
-    "slug": "filling-treatment",
-    "image": "https://teeth.org.au/media/uh3j11su/gettyimages-899199914-copy.jpeg?width=750&height=570&format=WebP&v=1d9fdee1ff78820",
-    "video": "https://www.youtube.com/watch?v=abcd1234",
-    "description": "Restore decayed or damaged teeth using advanced dental materials that provide a natural appearance and long-lasting results. The treatment is designed to be pain-free and suitable for both children and adults, helping maintain oral health and prevent further decay. The procedure also strengthens the tooth structure, improving chewing efficiency and overall dental functionality.",
-    "description_bn": "দাঁতের ক্ষয় বা ভাঙা অংশ পুনরুদ্ধার করতে আধুনিক উপকরণ ব্যবহার করা হয় যা দাঁতের প্রাকৃতিক আকার এবং দীর্ঘস্থায়ী ফলাফল নিশ্চিত করে। চিকিৎসাটি ব্যথামুক্ত এবং শিশু ও বড়দের জন্য নিরাপদ। এটি দাঁতের স্বাস্থ্য রক্ষা করে এবং আরও ক্ষয় প্রতিরোধে সাহায্য করে। প্রক্রিয়াটি দাঁতের কাঠামো শক্তিশালী করে, চিবানো কার্যকারিতা উন্নত করে এবং সামগ্রিক দাঁতের কার্যকারিতা বৃদ্ধি করে।",
+    "title": "Orthodontics (Teeth Straightening/Braces)",
+    "slug": "orthodontics-braces",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroKMeGJtLZL0h0jOQ61ZJv7AFSbnSB-QbHQ&s",
+    "video": "https://www.youtube.com/watch?v=yzab5678",
+    "description": "Achieve a perfect smile with advanced orthodontics and dental braces. We fix crooked, misaligned, or crowded teeth using high-quality metal braces, ceramic braces, and clear aligners. Our personalized orthodontic treatment improves facial symmetry, corrects bite alignment, and enhances long-term oral health for both teenagers and adults.",
+    "description_bn": "অ্যাডভান্সড অর্থোডন্টিক্স এবং ডেন্টাল ব্রেসেস (Braces) চিকিৎসার মাধ্যমে আপনার বাঁকা, ফাঁকা বা অসামঞ্জস্যপূর্ণ দাঁত সোজা ও সুন্দর করুন। আমরা প্রিমিয়াম মেটাল, সিরামিক ব্রেসেস এবং ক্লিয়ার অ্যালাইনার ব্যবহার করে মুখের অবয়ব ও দাঁতের কামড় (bite) নিখুঁত করি। সব বয়সের জন্য কাস্টমাইজড এই চিকিৎসা দাঁতের দীর্ঘস্থায়ী স্বাস্থ্য ও সুন্দর হাসি নিশ্চিত করে।",
     "highlights": [
-      "Prevents further tooth decay",
-      "Restores natural tooth shape",
-      "Durable and aesthetic",
-      "Pain-managed and comfortable"
+      "Corrects crooked and crowded teeth",
+      "Improves bite alignment and facial symmetry",
+      "Premium metal, ceramic, and clear aligners available",
+      "Long-term structural oral health benefits"
     ]
   },
   {
     "id": 2,
-    "title": "Scaling & Polishing",
-    "slug": "scaling-polishing",
-    "image": "https://newwayorthodontic.com/wp-content/uploads/2023/12/Scaling.jpg",
-    "video": "https://www.youtube.com/watch?v=efgh5678",
-    "description": "A thorough cleaning procedure that removes plaque, tartar, and surface stains from teeth to ensure healthy gums and bright smiles. This treatment prevents gum diseases, reduces bad breath, and enhances the overall oral hygiene. It is a quick, painless, and effective way to maintain oral health while improving aesthetic appearance.",
-    "description_bn": "এই চিকিৎসা দাঁতের উপর জমে থাকা প্লাক, টার্টার এবং দাগ পরিষ্কার করে। এটি মাড়ির স্বাস্থ্য রক্ষা করে, মাড়ির রোগ প্রতিরোধ করে এবং শ্বাসের দুর্গন্ধ কমায়। প্রক্রিয়াটি দ্রুত, ব্যথামুক্ত এবং কার্যকরী, যা মুখের স্বাস্থ্য বজায় রাখতে এবং হাসিকে আরও সুন্দর দেখাতে সাহায্য করে।",
+    "title": "Dental Implant",
+    "slug": "dental-implant",
+    "image": "https://www.perio.org/wp-content/uploads/2020/02/dental-implant.png",
+    "video": "https://www.youtube.com/watch?v=efgh7890",
+    "description": "Restore your missing teeth permanently with top-quality titanium dental implants. As the best alternative to natural teeth, implants fuse seamlessly with the jawbone to prevent bone loss, restore 100% chewing efficiency, and look completely natural. Invest in a lifetime solution for a confident, healthy smile.",
+    "description_bn": "হারানো দাঁতের স্থায়ী ও আধুনিক সমাধান পেতে বেছে নিন প্রিমিয়াম টাইটানিয়াম ডেন্টাল ইমপ্ল্যান্ট (Dental Implant)। এটি চোয়ালের হাড়ের সাথে স্থায়ীভাবে মিশে গিয়ে হাড়ের ক্ষয় রোধ করে, শতভাগ চিবানোর ক্ষমতা ফিরিয়ে আনে এবং দেখতে একদম আসল দাঁতের মতো দেখায়। আজীবন আত্মবিশ্বাসী হাসির জন্য এটি সেরা ডেন্টাল চিকিৎসা।",
     "highlights": [
-      "Prevents gum disease",
-      "Removes plaque and tartar",
-      "Brightens teeth",
-      "Quick and painless"
+      "Permanent and lifetime missing teeth solution",
+      "Prevents jawbone loss and aging appearance",
+      "Restores 100% chewing function and natural look",
+      "High-success rate with advanced surgical safety"
     ]
   },
   {
     "id": 3,
-    "title": "Root Canal Treatment",
-    "slug": "root-canal",
-    "image": "https://www.glmc.ae/wp-content/uploads/2022/12/Root-Canal-Treatment-Birmingham-Mark-Tangri-Dental-Excellence-p26b0l58u7a77txmqyafcvd8z4e0rr8zmooo9cp9q8-1024x683.jpg",
-    "video": "https://www.youtube.com/watch?v=yzab5678",
-    "description": "A specialized procedure to save severely infected or damaged teeth by removing the pulp, cleaning the canals, and sealing the tooth. This treatment relieves pain, prevents tooth extraction, and maintains natural teeth for long-term oral health. Root canal treatment also helps restore the tooth’s strength and functionality while avoiding complications.",
-    "description_bn": "এই বিশেষ চিকিৎসায় সংক্রমিত বা ক্ষতিগ্রস্ত দাঁতের ভিতরের পাল্প পরিষ্কার করে এবং দন্তনালী সিল করা হয়। এটি তীব্র ব্যথা দূর করে, দাঁত তোলা প্রতিরোধ করে এবং প্রাকৃতিক দাঁত দীর্ঘস্থায়ীভাবে সংরক্ষণ করে। রুট ক্যানাল চিকিৎসা দাঁতের শক্তি ও কার্যকারিতা পুনরুদ্ধার করতে সাহায্য করে এবং জটিলতা এড়ায়।",
+    "title": "Midline Diastema Closure / Zirconia Veneer",
+    "slug": "midline-diastema-zirconia-veneer",
+    "image": "https://www.jacobsondental.com.au/wp-content/uploads/2020/11/uveneer.jpg",
+    "video": "https://www.youtube.com/watch?v=stuv5678",
+    "description": "Close embarrassing gaps between front teeth with Midline Diastema Closure using premium Zirconia Veneers and composite bonding. Ultra-thin, durable Zirconia veneers perfectly mask stains, chips, and gaps, delivering a flawless Hollywood smile. Get a quick, minimally invasive, and highly aesthetic cosmetic dental makeover.",
+    "description_bn": "সামনের দাঁতের মাঝখানের অস্বস্তিকর ফাঁকা জায়গা দূর করুন মিডলাইন ডায়াস্টেমা ক্লোজার (Midline Diastema Closure) এবং প্রিমিয়াম জিরকোনিয়া ভিনিয়ার্স (Zirconia Veneer) এর মাধ্যমে। এই অতি-পাতলা ও দীর্ঘস্থায়ী ভিনিয়ার দাঁতের দাগ, ভাঙা অংশ বা ফাঁকা দ্রুত ঢেকে দেয়। কোনো বড় সার্জারি ছাড়াই তাৎক্ষণিকভাবে নিখুঁত ও আকর্ষণীয় হাসি পাওয়ার সেরা কসমেটিক ডেন্টাল চিকিৎসা এটি।",
     "highlights": [
-      "Relieves severe toothache",
-      "Prevents extraction",
-      "Preserves natural teeth",
-      "Safe and precise"
+      "Closes front teeth gaps flawlessly",
+      "Durable, stain-resistant ultra-thin Zirconia Veneers",
+      "Minimally invasive and quick cosmetic makeover",
+      "Natural shade-matching with surrounding teeth"
     ]
   },
   {
     "id": 4,
-    "title": "Dental Tourism / New Tooth Replacement",
-    "slug": "dental-tourism",
-    "image": "https://aluxdental.com/wp-content/uploads/2019/08/single-tooth-implant-1200x900.jpg",
-    "video": "https://www.youtube.com/watch?v=mnop3456",
-    "description": "Advanced dental procedures including implants, crowns, bridges, or full-mouth rehabilitation performed with world-class standards. Ideal for patients seeking high-quality, affordable dental care abroad. The treatment restores oral function, enhances aesthetics, and ensures long-term dental health.",
-    "description_bn": "অ্যাডভান্সড ডেন্টাল চিকিৎসা যেমন ইমপ্ল্যান্ট, ক্রাউন, ব্রিজ বা সম্পূর্ণ মুখ পুনর্গঠন বিশ্বের মান অনুযায়ী করা হয়। এটি বিদেশে উচ্চমানের এবং সাশ্রয়ী মূল্যের চিকিৎসা খুঁজছেন রোগীদের জন্য আদর্শ। চিকিৎসাটি মুখের কার্যকারিতা পুনরুদ্ধার করে, নান্দনিকতা উন্নত করে এবং দীর্ঘস্থায়ী দাঁতের স্বাস্থ্য নিশ্চিত করে।",
+    "title": "Root Canal Treatment",
+    "slug": "root-canal",
+    "image": "https://www.glmc.ae/wp-content/uploads/2022/12/Root-Canal-Treatment-Birmingham-Mark-Tangri-Dental-Excellence-p26b0l58u7a77txmqyafcvd8z4e0rr8zmooo9cp9q8-1024x683.jpg",
+    "video": "https://www.youtube.com/watch?v=yzab5678",
+    "description": "Save your severely infected or decayed tooth from extraction with painless Root Canal Treatment (RCT). Our specialized endodontic procedure removes damaged dental pulp, cleans deep canals, and seals the tooth safely. Relieve severe toothache and preserve your natural tooth structure for long-term function and comfort.",
+    "description_bn": "তীব্র দাঁতের ব্যথা থেকে মুক্তি পেতে এবং আসল দাঁতকে অকাল মৃত্যুর হাত থেকে বাঁচাতে অত্যন্ত কার্যকরী ও ব্যথামুক্ত রুট ক্যানাল চিকিৎসা (Root Canal Treatment)। এই বিশেষ পদ্ধতিতে দাঁতের ভেতরের সংক্রমিত পাল্প বা পুঁজ পরিষ্কার করে ইনফেকশন দূর করা হয় এবং দাঁত সিল করা হয়। দাঁত না তুলে তা আজীবন টিকিয়ে রাখার এটিই সেরা উপায়।",
     "highlights": [
-      "High-quality dental replacements",
-      "Restores function and aesthetics",
-      "Safe and effective procedures"
+      "Relieves severe toothache and deep dental infection",
+      "Prevents unnecessary tooth extraction",
+      "Preserves the natural tooth structure and function",
+      "Painless procedure using advanced rotary endodontics"
     ]
   },
-  
   {
     "id": 5,
-    "title": "Tooth Extraction",
-    "slug": "tooth-extraction",
-    "image": "https://boiseoralsurgery.com/wp-content/uploads/2022/03/is-a-tooth-extraction-painful.jpeg",
-    "video": "https://www.youtube.com/watch?v=qrst7890",
-    "description": "Safe and precise removal of damaged, decayed, or impacted teeth to prevent infection, overcrowding, and further dental issues. Pain management techniques ensure a comfortable experience, allowing for proper healing and maintenance of oral health.",
-    "description_bn": "ক্ষতিগ্রস্ত, পচা বা হাড়ের ভিতরে আটকে থাকা দাঁত নিরাপদ ও সঠিকভাবে অপসারণ করা হয়, যা সংক্রমণ, দাঁতের ভিড় এবং অন্যান্য সমস্যার প্রতিরোধ করে। ব্যথা নিয়ন্ত্রণ প্রযুক্তি ব্যবহারের মাধ্যমে প্রক্রিয়াটি আরামদায়ক হয় এবং মুখের স্বাস্থ্য বজায় রাখা সহজ হয়।",
+    "title": "Zirconia Crown",
+    "slug": "zirconia-crown",
+    "image": "https://s16736.pcdn.co/wp-content/uploads/sites/494/2019/05/KentDentalZirconiaCrownMay-min-768x512.jpg.optimal.jpg",
+    "video": "https://www.youtube.com/watch?v=mnop5678",
+    "description": "Protect and reinforce your damaged or root-canal-treated teeth with ultra-durable Zirconia Crowns (Caps). Known for exceptional strength and metal-free biocompatibility, Zirconia caps replicate the translucency of natural teeth perfectly. Ideal for both front and back teeth, ensuring heavy chewing tolerance and premium aesthetics.",
+    "description_bn": "রুট ক্যানাল করা বা ক্ষতিগ্রস্ত দাঁতকে দীর্ঘস্থায়ী সুরক্ষা দিতে ব্যবহার করুন অতি-শক্তিশালী জিরকোনিয়া ক্রাউন বা ক্যাপ (Zirconia Crown)। এতে কোনো মেটাল বা ধাতু না থাকায় এটি মাড়ির জন্য সম্পূর্ণ নিরাপদ এবং দেখতে হুবহু আসল দাঁতের মতো চকচকে হয়। সামনের ও পেছনের দাঁতের চিবানোর শক্তি এবং নান্দনিকতা ফিরিয়ে আনার সেরা আধুনিক ক্যাপ।",
     "highlights": [
-      "Removes decayed or impacted teeth",
-      "Pain-controlled procedure",
-      "Prevents infection and overcrowding"
+      "100% metal-free and highly biocompatible",
+      "Exceptional strength for heavy chewing pressure",
+      "Superior natural translucency and smile aesthetics",
+      "Long-lasting chip-resistant protection"
     ]
   },
   {
     "id": 6,
-    "title": "Fiber Bridge Treatment",
-    "slug": "fiber-bridge",
-    "image": "https://durbandentalcare.co.za/wp-content/uploads/2024/02/hq720-e1708511005891.jpg",
-    "video": "https://www.youtube.com/watch?v=uvwx1234",
-    "description": "Replace missing teeth with durable, natural-looking fiber bridges that restore both function and aesthetics. The minimally invasive procedure ensures patient comfort while providing long-lasting results for chewing, speaking, and smiling confidently.",
-    "description_bn": "হারানো দাঁতের জায়গায় শক্তিশালী এবং প্রাকৃতিক দেখানো ফাইবার ব্রিজ বসানো হয়, যা কার্যকারিতা এবং নান্দনিকতা উভয়ই পুনরুদ্ধার করে। এই প্রায় ন্যূনতম আক্রমণাত্মক প্রক্রিয়ায় রোগীর আরাম নিশ্চিত করা হয় এবং দীর্ঘস্থায়ী ফলাফল প্রদান করে, যা চিবানো, কথা বলা এবং আত্মবিশ্বাসী হাসি বজায় রাখতে সাহায্য করে।",
+    "title": "Teeth Whitening",
+    "slug": "tooth-whitening",
+    "image": "https://www.news-medical.net/image-handler/picture/2021/4/shutterstock_56198956.jpg",
+    "video": "https://www.youtube.com/watch?v=ghij3456",
+    "description": "Brighten your smile instantly with professional laser Teeth Whitening treatments. Our safe cosmetic dental procedure removes deep external stains caused by tea, coffee, smoking, and aging without damaging your enamel. Achieve a radiant, visibly whiter smile in just one session and boost your social confidence.",
+    "description_bn": "পেশাদার লেজার টিথ হোয়াইটনিং (Teeth Whitening) চিকিৎসার মাধ্যমে মাত্র এক সেশনে পান ঝকঝকে সাদা দাঁত। চা, কফি, ধূমপান বা বয়সের কারণে দাঁতে পড়া জেদি হলদে বা কালচে দাগ দাঁতের এনামেলের ক্ষতি না করে নিরাপদে দূর করা হয়। আপনার হাসিকে আরও উজ্জ্বল, আকর্ষণীয় এবং সামাজিক আত্মবিশ্বাস বাড়িয়ে তুলতে এটি অত্যন্ত কার্যকর।",
     "highlights": [
-      "Durable and aesthetic",
-      "Restores chewing and speech",
-      "Minimally invasive procedure"
+      "Removes stubborn stains from tea, coffee, and smoking",
+      "100% enamel-safe and gentle on sensitive teeth",
+      "Instant and highly noticeable whitening results",
+      "Quick and pain-free single-visit procedure"
     ]
   },
   {
     "id": 7,
-    "title": "Orthodontics (Teeth Straightening)",
-    "slug": "orthodontics",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroKMeGJtLZL0h0jOQ61ZJv7AFSbnSB-QbHQ&s",
-    "video": "https://www.youtube.com/watch?v=yzab5678",
-    "description": "Correct misaligned teeth and bite issues using braces or clear aligners to improve oral health, facial symmetry, and aesthetics. Customized treatment plans ensure comfortable, effective results for patients of all ages, enhancing both function and appearance.",
-    "description_bn": "বাঁকা বা অসামঞ্জস্য দাঁত ঠিক করতে ব্রেসেস বা ক্লিয়ার অ্যালাইনার ব্যবহার করা হয়, যা মুখের স্বাস্থ্য, মুখের সাদৃশ্য এবং নান্দনিকতা উন্নত করে। সম্পূর্ণ কাস্টমাইজড চিকিৎসা পরিকল্পনা নিশ্চিত করে আরামদায়ক এবং কার্যকর ফলাফল, যা দাঁতের কার্যকারিতা এবং দেখাকে সমানভাবে উন্নত করে।",
+    "title": "Dental Crowns & Bridges",
+    "slug": "crowns-bridges",
+    "image": "https://www.designdental.com.au/wp-content/uploads/2021/08/crowns-bridges.jpg",
+    "video": "https://www.youtube.com/watch?v=abcd3456",
+    "description": "Bridge the gaps left by missing teeth and strengthen fractured teeth with premium Dental Crowns and Bridges. Custom-fabricated to ensure a precise bite, our crowns and dental bridges restore full chewing power, prevent adjacent teeth shifting, and improve facial aesthetics with durable materials.",
+    "description_bn": "এক বা একাধিক হারানো দাঁতের খালি জায়গা পূরণ করতে এবং দুর্বল দাঁতকে মজবুত করতে ডেন্টাল ক্রাউন ও ব্রিজ (Crowns & Bridges) একটি দারুণ সমাধান। প্রতিটি রোগীর মুখের মাপ অনুযায়ী কাস্টম-মেড এই ক্যাপ বা ব্রিজ চিবানোর পূর্ণ ক্ষমতা ফিরিয়ে আনে, পাশের দাঁতকে বাঁকা হওয়া থেকে রক্ষা করে এবং মুখের স্বাভাবিক সৌন্দর্য বজায় রাখে।",
     "highlights": [
-      "Corrects crooked teeth",
-      "Improves bite alignment",
-      "Clear and metal braces available"
+      "Restores natural chewing and speaking efficiency",
+      "Prevents shifting of adjacent healthy teeth",
+      "Custom-tailored for a precise, comfortable bite alignment",
+      "Available in porcelain, ceramic, and metal alloys"
     ]
   },
   {
@@ -107,142 +110,148 @@
     "slug": "smile-design",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVWFc91eXtQo-z8ppNbzN4dnuztwdaena0Q&s",
     "video": "https://www.youtube.com/watch?v=cdef9012",
-    "description": "Enhance your smile by reshaping teeth, correcting alignment, and improving aesthetics through personalized treatment plans. This procedure boosts confidence and provides a natural, attractive appearance tailored to each patient’s facial features.",
-    "description_bn": "হাসিকে আরও সুন্দর করার জন্য দাঁতের আকার পরিবর্তন করা, বিন্যাস ঠিক করা এবং নান্দনিকতা উন্নত করা হয় ব্যক্তিগতকৃত চিকিৎসা পরিকল্পনার মাধ্যমে। এই প্রক্রিয়াটি আত্মবিশ্বাস বাড়ায় এবং প্রতিটি রোগীর মুখের বৈশিষ্ট্য অনুযায়ী প্রাকৃতিক ও আকর্ষণীয় হাসি প্রদান করে।",
+    "description": "Transform your personality with personalized Smile Design and Digital Smile Makeover treatments. By analyzing your unique facial features, lips, and gum lines, our cosmetic dentists combine veneers, contouring, and gum reshaping to craft a stunning, symmetrical smile that perfectly fits your face and boosts confidence.",
+    "description_bn": "ডিজিটাল স্মাইল ডিজাইন (Smile Design) চিকিৎসার মাধ্যমে আপনার ব্যক্তিত্বে নিয়ে আসুন এক জাদুকরী পরিবর্তন। আপনার মুখের গড়ন, ঠোঁট এবং মাড়ির অবস্থান বিশ্লেষণ করে কসমেটিক ডেন্টিস্টরা ভিনিয়ার্স, দাঁতের শেপিং ও মাড়ির চিকিৎসার সমন্বয়ে একটি নিখুঁত, প্রতিসম ও আকর্ষণীয় হাসি তৈরি করেন। নিজের হাসিকে মনের মতো সুন্দর করার সেরা মাস্টারপিস চিকিৎসা।",
     "highlights": [
-      "Tailored smile enhancement",
-      "Corrects uneven teeth",
-      "Improves confidence"
+      "Tailored digital planning for your unique face shape",
+      "Combines multiple cosmetic procedures for perfect results",
+      "Corrects teeth color, shape, and alignment issues",
+      "Drastically elevates self-esteem and facial charm"
     ]
   },
   {
     "id": 9,
-    "title": "Tooth Whitening",
-    "slug": "tooth-whitening",
-    "image": "https://www.news-medical.net/image-handler/picture/2021/4/shutterstock_56198956.jpg",
-    "video": "https://www.youtube.com/watch?v=ghij3456",
-    "description": "Professional teeth whitening treatments safely remove stains and discoloration to provide a bright, radiant smile. The procedure is designed to be gentle on enamel while delivering instant and noticeable results, boosting overall confidence and appearance.",
-    "description_bn": "পেশাদার দাঁতের হোয়াইটনিং চিকিৎসা নিরাপদে দাঁতের দাগ এবং রঙের বৈষম্য দূর করে উজ্জ্বল ও দীপ্তিময় হাসি প্রদান করে। প্রক্রিয়াটি দাঁতের এনামেলকে ক্ষতি না করে কার্যকর হয় এবং তাৎক্ষণিক, চোখে পড়ার মতো ফলাফল দেয়, যা আত্মবিশ্বাস এবং চেহারার উন্নতি ঘটায়।",
+    "title": "Tooth Extraction",
+    "slug": "tooth-extraction",
+    "image": "https://boiseoralsurgery.com/wp-content/uploads/2022/03/is-a-tooth-extraction-painful.jpeg",
+    "video": "https://www.youtube.com/watch?v=qrst7890",
+    "description": "Experience safe, sterile, and completely painless Tooth Extraction for severely broken, impacted wisdom teeth, or deeply decayed teeth. Utilizing advanced local anesthesia and micro-surgical techniques, we ensure a comfortable procedure that prevents further spread of dental infections and protects surrounding bone health.",
+    "description_bn": "অতিরিক্ত ক্ষয়প্রাপ্ত, ভেঙে যাওয়া বা মাড়ির নিচে আটকে থাকা আক্কেল দাঁতের (Wisdom Tooth) নিরাপদ ও শতভাগ ব্যথামুক্ত দাঁত তোলার চিকিৎসা (Tooth Extraction)। আধুনিক লোকাল অ্যানেশথেসিয়া এবং জীবাণুমুক্ত সার্জিক্যাল প্রযুক্তির মাধ্যমে অত্যন্ত আরামদায়কভাবে দাঁত অপসারণ করা হয়, যা মুখের অন্যান্য অংশে ইনফেকশন ছড়ানো রোধ করে।",
     "highlights": [
-      "Removes stains and discoloration",
-      "Safe for enamel",
-      "Instant and noticeable results"
+      "Painless surgical and simple extractions",
+      "Safe removal of painful impacted wisdom teeth",
+      "Stops the spread of severe dental infections",
+      "Post-extraction care and fast-healing guidance"
     ]
   },
-
-
   {
     "id": 10,
-    "title": "Black Gum Treatment",
-    "slug": "black-gum-treatment",
-    "image": "https://ariesorofacial.com/wp-content/uploads/2023/06/New-Project-28-2.webp",
-    "video": "https://www.youtube.com/watch?v=klmn7890",
-    "description": "Restore healthy pink gum color and reduce excessive pigmentation for a more attractive and youthful smile. Treatment enhances both oral health and aesthetic appearance safely and effectively.",
-    "description_bn": "মাড়ির স্বাভাবিক গোলাপী রঙ ফিরিয়ে আনা এবং অতিরিক্ত কালো দাগ কমানো হয়, যাতে হাসি আরও সুন্দর ও যুবক দেখায়। চিকিৎসাটি নিরাপদ ও কার্যকরভাবে মুখের স্বাস্থ্য এবং নান্দনিকতা উভয় উন্নত করে।",
+    "title": "Filling Treatment",
+    "slug": "filling-treatment",
+    "image": "https://teeth.org.au/media/uh3j11su/gettyimages-899199914-copy.jpeg?width=750&height=570&format=WebP&v=1d9fdee1ff78820",
+    "video": "https://www.youtube.com/watch?v=abcd1234",
+    "description": "Repair cavities and restore decayed or chipped teeth with durable, tooth-colored Composite Dental Fillings. This routine procedure stops tooth decay from reaching the nerve, strengthens the enamel structure, and blends perfectly with your natural teeth color for an invisible, long-lasting restoration suitable for all ages.",
+    "description_bn": "দাঁতের গর্ত বা ক্যাভিটি এবং ভেঙে যাওয়া অংশ পুনর্গঠন করতে ব্যবহার করুন উন্নত টুথ-কালারড ডেন্টাল ফিলিং (Dental Filling)। এই সাধারণ ও কার্যকরী চিকিৎসা দাঁতের ক্ষয়কে গভীরে বা রুট পর্যন্ত পৌঁছাতে বাধা দেয়, দাঁতের এনামেল শক্তিশালী করে এবং দেখতে একদম আসল দাঁতের রঙের সাথে মিশে যায়।",
     "highlights": [
-      "Reduces dark gum pigmentation",
-      "Safe and effective procedure",
-      "Enhances smile aesthetics"
+      "Stops tooth cavity and decay progression",
+      "Natural tooth-colored invisible composite material",
+      "Strengthens tooth structure and stops sensitivity",
+      "Quick, painless, and completely budget-friendly"
     ]
   },
   {
     "id": 11,
-    "title": "Tooth Shaping (Contouring)",
-    "slug": "tooth-shaping",
-    "image": "https://mayfielddental.com/wp-content/uploads/2025/01/COSMETIC-TOOTH-RESHAPING.jpeg",
-    "video": "https://www.youtube.com/watch?v=opqr1234",
-    "description": "Correct uneven teeth edges and reshape teeth for a balanced, uniform, and attractive smile. This procedure is quick, minimally invasive, and helps improve overall dental aesthetics and function.",
-    "description_bn": "অসামঞ্জস্য দাঁতের প্রান্ত ঠিক করা এবং দাঁতের আকার পরিবর্তন করা হয়, যাতে হাসি সুন্দর, সমান এবং আকর্ষণীয় হয়। প্রক্রিয়াটি দ্রুত, ন্যূনতম আক্রমণাত্মক এবং মুখের নান্দনিকতা ও কার্যকারিতা উন্নত করে।",
+    "title": "Scaling & Polishing",
+    "slug": "scaling-polishing",
+    "image": "https://newwayorthodontic.com/wp-content/uploads/2023/12/Scaling.jpg",
+    "video": "https://www.youtube.com/watch?v=efgh5678",
+    "description": "Prevent gum bleeding, bad breath, and periodontitis with professional Dental Scaling and Polishing. Our advanced ultrasonic scaling treatment gently removes stubborn plaque, hard tartar (calculus), and surface stains from food or smoking. Maintain pink, healthy gums and a fresh mouth with this vital preventive dental care.",
+    "description_bn": "মাড়ি থেকে রক্ত পড়া, মুখের দুর্গন্ধ এবং পাইওরিয়া বা মাড়ির রোগ প্রতিরোধ করতে নিয়মিত করান ডেন্টাল স্কেলিং ও পলিশিং (Scaling & Polishing)। আধুনিক আল্ট্রাসনিক প্রযুক্তির মাধ্যমে দাঁতের গোড়ায় জমে থাকা শক্ত পাথর (tartar), প্লাক এবং জেদি দাগ মাড়ির ক্ষতি না করে পরিষ্কার করা হয়। এটি মুখের সতেজতা ও সুস্থ মাড়ির জন্য অপরিহার্য।",
     "highlights": [
-      "Smoothens uneven teeth",
-      "Enhances smile appearance",
-      "Quick and painless procedure"
+      "Removes hardened tartar, calculus, and bacterial plaque",
+      "Cures and prevents bleeding gums and bad breath",
+      "Polishes teeth surfaces to prevent quick stain buildup",
+      "Essential six-monthly preventive oral check-up"
     ]
   },
   {
     "id": 12,
-    "title": "U-Veneers",
-    "slug": "u-veneers",
-    "image": "https://www.jacobsondental.com.au/wp-content/uploads/2020/11/uveneer.jpg",
-    "video": "https://www.youtube.com/watch?v=stuv5678",
-    "description": "Apply thin, custom-designed shells to cover imperfections like chips, gaps, and discoloration. U-Veneers provide a natural, aesthetically pleasing, and long-lasting solution to enhance your smile confidently.",
-    "description_bn": "পাতলা, কাস্টম ডিজাইন করা শেল ব্যবহার করে দাঁতের চিপ, ফাঁক বা রঙের বৈষম্য ঢেকে ফেলা হয়। ইউ-ভিনিয়ার্স প্রাকৃতিক, নান্দনিকভাবে সুন্দর এবং দীর্ঘস্থায়ী সমাধান প্রদান করে, যা আত্মবিশ্বাসী হাসি নিশ্চিত করে।",
+    "title": "Dental Tourism / New Tooth Replacement",
+    "slug": "dental-tourism",
+    "image": "https://aluxdental.com/wp-content/uploads/2019/08/single-tooth-implant-1200x900.jpg",
+    "video": "https://www.youtube.com/watch?v=mnop3456",
+    "description": "Experience premium Dental Tourism with international standard dental treatments at affordable costs. Specializing in global patient care, we offer full-mouth rehabilitation, dental implants, laser treatments, and digital smile design. Save significantly on dental costs while enjoying world-class clinic care and hospitality.",
+    "description_bn": "সাশ্রয়ী মূল্যে আন্তর্জাতিক মানের ডেন্টাল ট্যুরিজম (Dental Tourism) চিকিৎসার অভিজ্ঞতা নিন। প্রবাসী এবং বিদেশি রোগীদের জন্য বিশেষায়িত এই সেবায় আমরা ফুল-মাউথ রিহ্যাবিলিটেশন, উন্নত ইমপ্ল্যান্ট এবং ডিজিটাল স্মাইল ডিজাইন প্রদান করি। বিশ্বমানের ও আধুনিক ডেন্টাল কেয়ারের মাধ্যমে আপনার চিকিৎসা খরচ কমিয়ে আনার সেরা সুযোগ।",
     "highlights": [
-      "Corrects discoloration and chips",
-      "Improves smile aesthetics",
-      "Long-lasting and durable"
+      "World-class dental treatments at fraction of Western costs",
+      "Fast-tracked customized appointments for foreign/NRB patients",
+      "State-of-the-art sterilization and digital dental diagnostic tech",
+      "Full-mouth dental replacement and cosmetic makeover packages"
     ]
   },
   {
     "id": 13,
-    "title": "Partial Denture Teeth",
-    "slug": "partial-denture-teeth",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYfcu9T6LKAz-N-4PioB4Jmv4n5L7u6-Rkg&s",
-    "video": "https://www.youtube.com/watch?v=wxyz9012",
-    "description": "Removable prosthetic teeth replace missing ones while preserving surrounding natural teeth. Provides improved chewing ability, speech, and overall oral aesthetics, designed for comfort and custom fit.",
-    "description_bn": "হারানো দাঁতের জায়গায় তুলে দেওয়া যায় এমন প্রোথেটিক দাঁত বসানো হয়, যা চারপাশের প্রাকৃতিক দাঁত রক্ষা করে। এটি চিবানো, কথা বলা এবং মুখের নান্দনিকতা উন্নত করে এবং আরামদায়ক ও কাস্টম ফিট নিশ্চিত করে।",
+    "title": "Fiber Bridge Treatment",
+    "slug": "fiber-bridge",
+    "image": "https://durbandentalcare.co.za/wp-content/uploads/2024/02/hq720-e1708511005891.jpg",
+    "video": "https://www.youtube.com/watch?v=uvwx1234",
+    "description": "Replace missing teeth instantly without cutting down healthy adjacent teeth using innovative Fiber Reinforced Composite Bridges. This modern, minimally invasive dental procedure offers a fast, metal-free, and budget-friendly alternative to traditional crowns, restoring natural smiling and chewing aesthetics in a single visit.",
+    "description_bn": "পাশের সুস্থ দাঁত কেটে ছোট না করেই হারানো দাঁত প্রতিস্থাপনের আধুনিক প্রযুক্তি ফাইবার ব্রিজ (Fiber Bridge Treatment)। এই ন্যূনতম আক্রমণাত্মক পদ্ধতিতে মজবুত ফাইবার ও কম্পোজিটের সমন্বয়ে মাত্র এক ভিজিটেই মেটাল-মুক্ত এবং সাশ্রয়ী উপায়ে নতুন দাঁত বসানো হয়, যা আপনার আত্মবিশ্বাসী হাসি ও চিবানোর ক্ষমতা ফিরিয়ে আনে।",
     "highlights": [
-      "Restores chewing function",
-      "Maintains surrounding teeth",
-      "Custom-fit and comfortable"
+      "No cutting or reshaping required for adjacent natural teeth",
+      "Highly affordable and done in a single dental clinic visit",
+      "Metal-free, lightweight, and bio-compatible composite fiber",
+      "Excellent aesthetic option for front tooth replacement"
     ]
   },
   {
     "id": 14,
-    "title": "Dental Crowns & Bridges",
-    "slug": "crowns-bridges",
-    "image": "https://www.designdental.com.au/wp-content/uploads/2021/08/crowns-bridges.jpg",
-    "video": "https://www.youtube.com/watch?v=abcd3456",
-    "description": "High-quality crowns and bridges restore strength, shape, and function to damaged or missing teeth. Enhances smile aesthetics and ensures durable, long-lasting dental solutions customized for each patient.",
-    "description_bn": "উচ্চমানের ক্রাউন এবং ব্রিজ দাঁতের শক্তি, আকার এবং কার্যকারিতা পুনরুদ্ধার করে। এটি হাসির নান্দনিকতা উন্নত করে এবং প্রতিটি রোগীর জন্য কাস্টমাইজড, দীর্ঘস্থায়ী সমাধান প্রদান করে।",
+    "title": "Black Gum Treatment",
+    "slug": "black-gum-treatment",
+    "image": "https://ariesorofacial.com/wp-content/uploads/2023/06/New-Project-28-2.webp",
+    "video": "https://www.youtube.com/watch?v=klmn7890",
+    "description": "Lighten dark, hyper-pigmented gums with advanced laser Gum Depigmentation or Black Gum Treatment. Excess melanin pigmentation is safely removed to reveal naturally healthy, pink gums underneath. This cosmetic dental procedure significantly improves the harmony of your smile and boosts your smiling confidence.",
+    "description_bn": "মাড়ির অতিরিক্ত কালো বা কালচে দাগ দূর করে মাড়ির স্বাভাবিক গোলাপী রঙ ফিরিয়ে আনুন লেজার গাম ডিপিগমেন্টেশন বা ব্ল্যাক গাম ট্রিটমেন্ট (Black Gum Treatment) এর মাধ্যমে। মাড়ির অতিরিক্ত মেলানিন স্তর নিরাপদে অপসারণ করে সুস্থ মাড়ি ফুটিয়ে তোলা হয়, যা হাসির নান্দনিকতা বহুগুণ বাড়িয়ে দেয়।",
     "highlights": [
-      "Restores teeth strength",
-      "Custom-made for perfect fit",
-      "Enhances smile aesthetics"
+      "Eliminates embarrassing dark/brown gum pigmentation",
+      "Advanced laser tech ensures painless, bloodless procedure",
+      "Restores natural, healthy-looking pink gum tissue",
+      "Instant, long-lasting aesthetic enhancement"
     ]
   },
   {
     "id": 15,
-    "title": "Dental Implant",
-    "slug": "dental-implant",
-    "image": "https://www.perio.org/wp-content/uploads/2020/02/dental-implant.png",
-    "video": "https://www.youtube.com/watch?v=efgh7890",
-    "description": "Permanent replacement of missing teeth using titanium implants that integrate with the jawbone. Provides natural appearance, restores chewing function, prevents bone loss, and ensures long-term oral health.",
-    "description_bn": "টাইটেনিয়াম ইমপ্ল্যান্ট ব্যবহার করে হারানো দাঁত স্থায়ীভাবে প্রতিস্থাপন করা হয়, যা জিহ্বার হাড়ের সাথে একীভূত হয়। এটি প্রাকৃতিক চেহারা দেয়, চিবানো কার্যকারিতা পুনরুদ্ধার করে, হাড় ক্ষয় প্রতিরোধ করে এবং দীর্ঘস্থায়ী মুখের স্বাস্থ্য নিশ্চিত করে।",
+    "title": "Tooth Shaping (Contouring)",
+    "slug": "tooth-shaping",
+    "image": "https://mayfielddental.com/wp-content/uploads/2025/01/COSMETIC-TOOTH-RESHAPING.jpeg",
+    "video": "https://www.youtube.com/watch?v=opqr1234",
+    "description": "Fix uneven, pointy, or slightly overlapping teeth edges instantly with Cosmetic Tooth Shaping and Contouring (Enameloplasty). This fast, painless, and non-invasive procedure subtly reshapes tooth enamel to give you a perfectly uniform, smooth, and beautiful smile silhouette without any anesthesia or drilling.",
+    "description_bn": "কোনো প্রকার অ্যানেশথেসিয়া বা ড্রিলিং ছাড়াই দাঁতের আঁকাবাঁকা, সুচালো বা অসমান প্রান্ত সোজা করার চমৎকার কসমেটিক ডেন্টাল চিকিৎসা টুথ শেপিং বা কন্ট্যুরিং (Tooth Shaping)। এই দ্রুত ও ব্যথামুক্ত পদ্ধতিতে দাঁতের এনামেলকে হালকা রিশেপ করে একটি সুবিন্যস্ত ও আকর্ষণীয় হাসির আকৃতি দেওয়া হয়।",
     "highlights": [
-      "Strong and permanent solution",
-      "Prevents bone loss",
-      "Natural-looking results"
+      "Smoothens uneven, chipped, or pointy dental edges",
+      "100% painless procedure done in minutes with zero down-time",
+      "Improves symmetry and alignment of front teeth instantly",
+      "Requires no artificial materials or chemical alteration"
     ]
   },
   {
     "id": 16,
-    "title": "Fiber Post",
-    "slug": "fiber-post",
-    "image": "https://www.researchgate.net/publication/379387937/figure/fig1/AS:11431281232457742@1711723373610/Resin-pattern-made-of-post-space_Q320.jpg",
-    "video": "https://www.youtube.com/watch?v=ijkl1234",
-    "description": "Supports and reinforces weak or root-treated teeth with durable fiber posts, ensuring better stability for crowns and bridges while preserving natural tooth structure.",
-    "description_bn": "দাঁতের দুর্বল বা রুট-চিকিৎসা করা অংশকে শক্তিশালী করতে ফাইবার পোস্ট ব্যবহার করা হয়। এটি ক্রাউন এবং ব্রিজের স্থিতিশীলতা বাড়ায় এবং প্রাকৃতিক দাঁতের গঠন রক্ষা করে।",
+    "title": "Partial Denture Teeth",
+    "slug": "partial-denture-teeth",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYfcu9T6LKAz-N-4PioB4Jmv4n5L7u6-Rkg&s",
+    "video": "https://www.youtube.com/watch?v=wxyz9012",
+    "description": "Restore oral functionality and beautiful smile affordably with custom-fitted Removable Partial Dentures. Designed to replace multiple missing teeth, these lightweight dental prosthetics stay securely in place, restore comfortable chewing, improve speech clearity, and prevent the collapse of facial muscles.",
+    "description_bn": "সাশ্রয়ী মূল্যে একাধিক হারানো দাঁত প্রতিস্থাপনের জন্য কাস্টম-ফিটেড রিমুভেবল পারশিয়াল ডেন্টার (Partial Denture Teeth) বা খুলে রাখা যায় এমন কৃত্রিম দাঁত। এটি মুখের খালি অংশ পূরণ করে চিবানোর ক্ষমতা ও স্পষ্ট কথা বলা পুনরুদ্ধার করে এবং মুখের পেশী ঝুলে পড়া রোধ করে হাসির স্বাভাবিক সৌন্দর্য ধরে রাখে।",
     "highlights": [
-      "Strengthens root canal treated teeth",
-      "Durable and reliable",
-      "Compatible with crowns"
+      "Cost-effective missing teeth replacement alternative",
+      "Custom-molded for maximum snug fit and tissue comfort",
+      "Restores clear speech articulation and chewing force",
+      "Easy to clean, maintain, and adjust over time"
     ]
   },
   {
     "id": 17,
-    "title": "Zirconium Cap / Bridge",
-    "slug": "zirconium-cap-bridge",
-    "image": "https://s16736.pcdn.co/wp-content/uploads/sites/494/2019/05/KentDentalZirconiaCrownMay-min-768x512.jpg.optimal.jpg",
-    "video": "https://www.youtube.com/watch?v=mnop5678",
-    "description": "Durable, natural-looking zirconium crowns and bridges provide long-lasting restoration for damaged or missing teeth. Ideal for front teeth due to high aesthetic quality, strength, and precise fit.",
-    "description_bn": "দীর্ঘস্থায়ী পুনর্গঠনের জন্য শক্তিশালী এবং প্রাকৃতিক দেখানো জিরকোনিয়াম ক্রাউন এবং ব্রিজ ব্যবহার করা হয়। এটি সামনের দাঁতের জন্য আদর্শ, কারণ এটি নান্দনিকভাবে সুন্দর, শক্ত এবং নিখুঁতভাবে ফিট হয়।",
+    "title": "Fiber Post",
+    "slug": "fiber-post",
+    "image": "https://www.researchgate.net/publication/379387937/figure/fig1/AS:11431281232457742@1711723373610/Resin-pattern-made-of-post-space_Q320.jpg",
+    "video": "https://www.youtube.com/watch?v=ijkl1234",
+    "description": "Reinforce brittle, highly damaged root-canal-treated teeth from the inside out using high-strength Fiber Posts. Positioned inside the root canal, these bio-compatible quartz fiber posts distribute chewing forces evenly down the root, providing a rock-solid foundation to support dental crowns and prevent future tooth fractures.",
+    "description_bn": "রুট ক্যানাল করা অত্যন্ত দুর্বল বা ভঙ্গুর দাঁতকে ভেতর থেকে শক্তিশালী করতে ব্যবহার করা হয় হাই-স্ট্রেন্থ ফাইবার পোস্ট (Fiber Post)। এটি রুট ক্যানালের ভেতরে স্থাপন করা হয়, যা দাঁতের ওপর চিবানোর চাপ সমানভাবে ছড়িয়ে দেয়। এটি ডেন্টাল ক্রাউন বা ক্যাপ বসানোর জন্য একটি দীর্ঘস্থায়ী ও মজবুত ভিত্তি তৈরি করে।",
     "highlights": [
-      "Natural-looking and strong",
-      "Long-lasting restoration",
-      "Highly aesthetic for front teeth"
+      "Provides core structural reinforcement for RCT treated teeth",
+      "High elasticity matches natural dentin to prevent root fracture",
+      "Perfect aesthetic foundation under translucent ceramic crowns",
+      "Completely metal-free, non-corrosive, and biocompatible"
     ]
   }
 ]
-
-

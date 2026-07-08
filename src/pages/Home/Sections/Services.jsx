@@ -23,31 +23,37 @@ export default function ServicesGrid() {
         </div>
 
         {/* Services Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {services.map((service) => (
             <div
               key={service.id}
-              className="bg-white rounded-xl shadow-md overflow-hidden h-full flex flex-col"
+              className="group bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-xl hover:border-primary/10 transition-all duration-300 overflow-hidden h-full flex flex-col cursor-pointer"
+              onClick={() => navigate(`/services/${service.slug}`)}
             >
-              <img
-                src={service.image}
-                alt={service.title}
-                className="w-full object-cover"
-              />
-              <div className="p-4 flex-1 flex flex-col items-center text-center">
-                <h4 className="text-lg font-semibold text-primary mb-2">
+              {/* Image Container */}
+              <div className="overflow-hidden aspect-[4/3] bg-gray-50 relative">
+                <img
+                  src={service.image}
+                  alt={service.title}
+                  className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                  loading="lazy"
+                />
+              </div>
+
+              {/* Content Area */}
+              <div className="p-5 flex-1 flex flex-col justify-between items-center text-center">
+                <h4 className="text-base sm:text-lg font-bold text-gray-800 group-hover:text-primary transition-colors duration-200 mb-4 line-clamp-2">
                   {service.title}
                 </h4>
-                {service.description && (
-                  <p className="text-sm text-gray-700 mb-3 line-clamp-3">
-                    {service.description}
-                  </p>
-                )}
+                
                 <Button
                   label="Details"
                   variant="secondary"
-                  className="mt-auto w-max"
-                  onClick={() => navigate(`/services/${service.slug}`)}
+                  className="w-full py-2.5 text-sm font-medium border border-gray-200 hover:bg-primary hover:text-white rounded-xl transition-all duration-200"
+                  onClick={(e) => {
+                    e.stopPropagation(); // Prevents double navigation since parent div also has click handler
+                    navigate(`/services/${service.slug}`);
+                  }}
                 />
               </div>
             </div>
